@@ -11,13 +11,15 @@ Book recommendations, lists, reports, etc.
   - ✏️: Wrote a report
   - 🛒: Link to purchase
 - Categories
-  - 🙋: Biography or Memoir
+  - 🙋: Biography or memoir
   - 🏛️: Politics
-  - 🏙️: Society and Civilization
-  - 💡: Inventions and Technology
+  - 🏙️: Society and civilization
+  - 💡: Inventions and technology
   - ⚡: Energy
-  - ➕: Math and Logic
+  - ➕: Math and logic
   - 📈: Business
+  - 🏗️: Development and foreign aid
+  - 🎓: Education
 
 ## Non Fiction
 
@@ -73,54 +75,54 @@ Book recommendations, lists, reports, etc.
 | | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
 | | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
 | | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
-| | | | | _Energy and Civilization: A History_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
+| | | | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Should We Eat Meat?_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Making the Modern World: Materials and Dematerialization_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Harvesting the Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy Myths and Realities_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
+| | | | | _Energy Myths and Realities_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Japan’s Dietary Transition and Its Impacts_ | Vaclav Smil and Kazuhiko Kobayashi | | [Amazon](http://a.co/d/) |
 | | | | | _Made in the USA: The Rise and Retreat of American Manufacturing_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Prime Movers of Globalization_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _The Earth’s Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy at the Crossroads_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energies: An Illustrated Guide to the Biosphere and Civilization_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
+| | | | | _Energy at the Crossroads_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Energies: An Illustrated Guide to the Biosphere and Civilization_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Global Catastrophes and Trends_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Enriching the Earth_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Why America is Not a New Rome_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
 | | | | | _Transforming the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy Transitions: History, Requirements, Prospects_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
+| | | | | _Energy Transitions: History, Requirements, Prospects_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Creating the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Poor Numbers: How We are Misled by African Development Statistics and What to Do About it_ | Morten Jerven | | [Amazon](http://a.co/d/) |
-| | | | | _Getting Better: Why Global Development is Succeeding—and How We Can Improve the World Even More_ | Charles Kenny | | [Amazon](http://a.co/d/) |
-| | | | | _Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity_ | Katherine Boo | | [Amazon](http://a.co/d/) |
-| | | | | _The Man Who Fed the World: Nobel Peace Prize Laureate Norman Borlaug and His Battle to End World Hunger_ | Leon Hesser | | [Amazon](http://a.co/d/) |
-| | | | | _The Last Hunger Season: A Year in an African Farm Community on the Brink of Change_ | Roger Thurow | | [Amazon](http://a.co/d/) |
-| | | | | _However Long the Night: Molly Melching’s Journey to Help Millions of African Women and Girls Triumph_ | Aimee Molloy | | [Amazon](http://a.co/d/) |
-| | | | | _In the Company of the Poor_ | Paul Farmer and Gustavo Gutierrez | | [Amazon](http://a.co/d/) |
-| | | | | _Mighty be Our Powers: How Sisterhood, Prayer, and Sex Changed a Nation at War_ | Leymah Gbowee | | [Amazon](http://a.co/d/) |
-| | | | | _One Billion Hungry: Can We Feed the World?_ | Gordon Conway | | [Amazon](http://a.co/d/) |
-| | | | | _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty _ | Abhijit Vinayak Banerjee and Esther Duflo | | [Amazon](http://a.co/d/) |
-| | | | | _How to Spend $50 Billion to Make the World a Better Place_ | Bjørn Lomborg | | [Amazon](http://a.co/d/) |
-| | | | | _The Foundation: How Private Wealth Is Changing the World_ | Joel L. Fleishman | | [Amazon](http://a.co/d/) |
-| | | | | _Give Smart: Philanthropy that Gets Results_ | Thomas J. Tierney and Joel L. Fleishman | | [Amazon](http://a.co/d/) |
-| | | | | _Jim Grant—UNICEF Visionary_ | Richard Jolly (Ed.) | | [Amazon](http://a.co/d/) |
-| | | | | _Tomorrow’s Table: Organic Farming, Genetics, and the Future of Food_ | Pamela Ronald and Raoul Adamchak | | [Amazon](http://a.co/d/) |
-| | | | | _The Great Escape: Health, Wealth, and the Origins of Inequality_ | Angus Deaton | | [Amazon](http://a.co/d/) |
-| | | | | _The Idealist: Jeffrey Sachs and the Quest to End Poverty_ | Nina Munk | | [Amazon](http://a.co/d/) |
-| | | | | _Interventions: A Life in War and Peace_ | Kofi Annan | | [Amazon](http://a.co/d/) |
-| | | | | _Why Does College Cost So Much?_ | Robert B. Archibald and David H. Feldman | | [Amazon](http://a.co/d/) |
-| | | | | _A World-Class Education: Learning from International Models of Excellence and Innovation_ | Vivien Stewart | | [Amazon](http://a.co/d/) |
-| | | | | _Academically Adrift: Limited Learning on College Campuses_ | Richard Arum and Joshipa Roksa | | [Amazon](http://a.co/d/) |
-| | | | | _Why Don’t Students Like School? A Cognitive Scientist Answers Questions about how the Mind Works and What It Means for the Classroom_ | Dan T. Willingham | | [Amazon](http://a.co/d/) |
-| | | | | _Change.edu: Rebooting for the New Talent Economy_ | Andrew Rosen | | [Amazon](http://a.co/d/) |
-| | | | | _Unlocking the Gates_ | Taylor Walsh | | [Amazon](http://a.co/d/) |
-| | | | | _Class Warfare: Inside the Fight to Fix America’s Schools_ | Steven Brill | | [Amazon](http://a.co/d/) |
-| | | | | _Who’s Teaching your Children?_ | Vivian Troen and Katherine C. Boles | | [Amazon](http://a.co/d/) |
-| | | | | _Stretching the School Dollar: How Schools and Districts Can Save Money while Serving Students Best_ | Frederick M. Hess and Eric Osberg (Eds.) | | [Amazon](http://a.co/d/) |
-| | | | | _Where Do School Funds Go?_ | Marguerite Roza | | [Amazon](http://a.co/d/) |
-| | | | | _Liberating Learning: Technology, Politics, and the Future of American Education_ | Terry M. Moe and John E. Chubb | | [Amazon](http://a.co/d/) |
-| | | | | _Work Hard. Be Nice: How Two Inspired Teachers Created the Most Promising Schools in America_ | Jay Mathews | | [Amazon](http://a.co/d/) |
-| | | | | _Value-Added Measures in Education: What Every Educator Needs to Know_ | Douglas N. Harris | | [Amazon](http://a.co/d/) |
+| | | | | _Poor Numbers: How We are Misled by African Development Statistics and What to Do About it_ | Morten Jerven | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Getting Better: Why Global Development is Succeeding—and How We Can Improve the World Even More_ | Charles Kenny | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity_ | Katherine Boo | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Man Who Fed the World: Nobel Peace Prize Laureate Norman Borlaug and His Battle to End World Hunger_ | Leon Hesser | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Last Hunger Season: A Year in an African Farm Community on the Brink of Change_ | Roger Thurow | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _However Long the Night: Molly Melching’s Journey to Help Millions of African Women and Girls Triumph_ | Aimee Molloy | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _In the Company of the Poor_ | Paul Farmer and Gustavo Gutierrez | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Mighty be Our Powers: How Sisterhood, Prayer, and Sex Changed a Nation at War_ | Leymah Gbowee | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _One Billion Hungry: Can We Feed the World?_ | Gordon Conway | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty_ | Abhijit Vinayak Banerjee and Esther Duflo | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _How to Spend $50 Billion to Make the World a Better Place_ | Bjørn Lomborg | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Foundation: How Private Wealth Is Changing the World_ | Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Give Smart: Philanthropy that Gets Results_ | Thomas J. Tierney and Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Jim Grant—UNICEF Visionary_ | Richard Jolly (Ed.) | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Tomorrow’s Table: Organic Farming, Genetics, and the Future of Food_ | Pamela Ronald and Raoul Adamchak | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Great Escape: Health, Wealth, and the Origins of Inequality_ | Angus Deaton | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Idealist: Jeffrey Sachs and the Quest to End Poverty_ | Nina Munk | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Interventions: A Life in War and Peace_ | Kofi Annan | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Why Does College Cost So Much?_ | Robert B. Archibald and David H. Feldman | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _A World-Class Education: Learning from International Models of Excellence and Innovation_ | Vivien Stewart | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Academically Adrift: Limited Learning on College Campuses_ | Richard Arum and Joshipa Roksa | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Why Don’t Students Like School? A Cognitive Scientist Answers Questions about how the Mind Works and What It Means for the Classroom_ | Dan T. Willingham | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Change.edu: Rebooting for the New Talent Economy_ | Andrew Rosen | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Unlocking the Gates_ | Taylor Walsh | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Class Warfare: Inside the Fight to Fix America’s Schools_ | Steven Brill | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Who’s Teaching your Children?_ | Vivian Troen and Katherine C. Boles | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Stretching the School Dollar: How Schools and Districts Can Save Money while Serving Students Best_ | Frederick M. Hess and Eric Osberg (Eds.) | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Where Do School Funds Go?_ | Marguerite Roza | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Liberating Learning: Technology, Politics, and the Future of American Education_ | Terry M. Moe and John E. Chubb | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Work Hard. Be Nice: How Two Inspired Teachers Created the Most Promising Schools in America_ | Jay Mathews | 🎓 | [Amazon](http://a.co/d/) |
+| | | | | _Value-Added Measures in Education: What Every Educator Needs to Know_ | Douglas N. Harris | 🎓 | [Amazon](http://a.co/d/) |
 | | | | | _The Gene: An Intimate History_ | Siddhartha Mukherjee | | [Amazon](http://a.co/d/) |
 | | | | | _For the Love of Physics: From the End of the Rainbow to the Edge of Time, a Journey through the Wonders of Physics_ | Walter Lewin | | [Amazon](http://a.co/d/) |
 | | | | | _Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | | [Amazon](http://a.co/d/) |
