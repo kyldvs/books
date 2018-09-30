@@ -152,40 +152,40 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Feynman Lectures on Physics: Volume 18, Feynman on Flow_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/gUelSET) [Caltech](http://www.feynmanlectures.caltech.edu/) |
 | | | | | _The Feynman Lectures on Physics: Volume 19, Masers and Light_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/hew1Aye) [Caltech](http://www.feynmanlectures.caltech.edu/) |
 | | | | | _The Feynman Lectures on Physics: Volume 20, The Very Best Lectures_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/a5u9vg5) [Caltech](http://www.feynmanlectures.caltech.edu/) |
-| | | | | _The New Science of Strong Materials_ | J.E. Gordon | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Hair of the Dog and Other Scientific Surprises_ | Karl Sabbagh | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _13 Things that Don’t Make Sense: The Most Baffling Scientific Mysteries of our Time_ | Michael Brooks | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _Modernist Cuisine: The Art and Science of Cooking_ | Nathan Myhrvold | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Emperor of All Maladies: A Biography of Cancer_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _I Contain Multitudes: The Microbes within Us and a Grander View of Life_ | Ed Yong | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _Stuff Matters: Exploring the Marvelous Materials that Shape our Man-Made World_ | Mark Miodownik | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Quest: Energy, Security, and the Remaking of the Modern World_ | Daniel Yergin | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Sustainable Energy—without the Hot Air_ | David J.C. MacKay | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Unlocking Energy Innovation_ | Richard K. Lester and David M. Hart | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _World on the Edge: How to Prevent Environmental and Economic Collapse_ | Lester R. Brown | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Global Warming: The Complete Briefing_ | John Houghton | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century_ | Burton Richter | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Hot, Flat, and Crowded: Why We Need a Green Revolution—and How it Can Renew America_ | Thomas Friedman | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Reinventing Fire: Bold Business Solutions for the New Energy Era_ | Amory B. Lovins and Rocky Mountain Institute | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ | J.D. Vance | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Evicted: Poverty and Profit in the American City_ | Matthew Desmond | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The Power to Compete: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy_ | Hiroshi Mikitani and Ryoichi Mikitani | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War_ | Robert Gordon | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _How Asia Works: Success and Failure in the World’s Most Dynamic Region_ | Joe Studwell | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Capital in the Twenty-First Century_ | Thomas Piketty | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Stress Test: Reflections on Financial Crises_ | Timothy F. Geithner | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The Bet: Paul Ehrlich, Julian Simon, and our Gamble over Earth’s Future_ | Paul Sabin | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The Price of Inequality: How Today’s Divided Society Endangers our Future_ | Joseph E. Stiglitz | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Why Nations Fail_ | Daron Acemoglu and James A. Robinson | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _This Time Is Different: Eight Centuries of Financial Folly_ | Carmen Reinhart and Kenneth Rogoff | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Beyond the Crash: Overcoming the First Crisis of Globalization_ | Gordon Brown | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Too Big to Fail_ | Andrew Ross Sorkin | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The World Is Flat: A Brief History of the Twenty-first Century_ | Thomas Friedman | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _That Used to Be Us: How America Fell Behind in the World it Invented and How We Can Come Back_ | Thomas Friedman and Michael Mandelbaum | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The End of Poverty_ | Jeffrey Sachs | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _In Fed We Trust: Ben Bernanke’s War on the Great Panic_ | David Wessel | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance_ | Steven Levitt and Stephen Dubner | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _The Rational Optimist: How Prosperity Evolves_ | Matt Ridley | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The New Science of Strong Materials_ | J.E. Gordon | ⚗️ | [Amazon](http://a.co/d/66zrxVH) |
+| | | | | _The Hair of the Dog and Other Scientific Surprises_ | Karl Sabbagh | ⚗️ | [Amazon](http://a.co/d/1a5rz5Y) |
+| | | | | _13 Things that Don’t Make Sense: The Most Baffling Scientific Mysteries of our Time_ | Michael Brooks | ⚗️ | [Amazon](http://a.co/d/fynUW0s) |
+| | | | | _Modernist Cuisine: The Art and Science of Cooking_ | Nathan Myhrvold | ⚗️ | [Amazon](http://a.co/d/9SURmlx) |
+| | | | | _The Emperor of All Maladies: A Biography of Cancer_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/8ywAqbe) |
+| | | | | _I Contain Multitudes: The Microbes within Us and a Grander View of Life_ | Ed Yong | ⚗️ | [Amazon](http://a.co/d/ePTbf0U) |
+| | | | | _Stuff Matters: Exploring the Marvelous Materials that Shape our Man-Made World_ | Mark Miodownik | ⚗️ | [Amazon](http://a.co/d/ivmroOB) |
+| | | | | _The Quest: Energy, Security, and the Remaking of the Modern World_ | Daniel Yergin | ☁️⚡ | [Amazon](http://a.co/d/9qV4Jza) |
+| | | | | _Sustainable Energy—without the Hot Air_ | David J.C. MacKay | ☁️⚡ | [Amazon](http://a.co/d/2CpRiye) |
+| | | | | _Unlocking Energy Innovation_ | Richard K. Lester and David M. Hart | ☁️⚡ | [Amazon](http://a.co/d/gWIMja9) |
+| | | | | _World on the Edge: How to Prevent Environmental and Economic Collapse_ | Lester R. Brown | ☁️⚡ | [Amazon](http://a.co/d/bJKYkhi) |
+| | | | | _Global Warming: The Complete Briefing_ | John Houghton | ☁️⚡ | [Amazon](http://a.co/d/4xSeRLA) |
+| | | | | _Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century_ | Burton Richter | ☁️⚡ | [Amazon](http://a.co/d/90u94Ig) |
+| | | | | _Hot, Flat, and Crowded: Why We Need a Green Revolution—and How it Can Renew America_ | Thomas Friedman | ☁️⚡ | [Amazon](http://a.co/d/gajpyOc) |
+| | | | | _Reinventing Fire: Bold Business Solutions for the New Energy Era_ | Amory B. Lovins and Rocky Mountain Institute | ☁️⚡ | [Amazon](http://a.co/d/iH74IJ2) |
+| | | | | _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ | J.D. Vance | 💰 | [Amazon](http://a.co/d/5edqOJ7) |
+| | | | | _Evicted: Poverty and Profit in the American City_ | Matthew Desmond | 💰 | [Amazon](http://a.co/d/1Q6QsdH) |
+| | | | | _The Power to Compete: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy_ | Hiroshi Mikitani and Ryoichi Mikitani | 💰 | [Amazon](http://a.co/d/1XQb81i) |
+| | | | | _The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War_ | Robert Gordon | 💰 | [Amazon](http://a.co/d/gAi1xIK) |
+| | | | | _How Asia Works: Success and Failure in the World’s Most Dynamic Region_ | Joe Studwell | 💰 | [Amazon](http://a.co/d/4J0V35E) |
+| | | | | _Capital in the Twenty-First Century_ | Thomas Piketty | 💰 | [Amazon](http://a.co/d/3WYLZmb) |
+| | | | | _Stress Test: Reflections on Financial Crises_ | Timothy F. Geithner | 💰 | [Amazon](http://a.co/d/dVc2XkN) |
+| | | | | _The Bet: Paul Ehrlich, Julian Simon, and our Gamble over Earth’s Future_ | Paul Sabin | 💰 | [Amazon](http://a.co/d/gXnw9jr) |
+| | | | | _The Price of Inequality: How Today’s Divided Society Endangers our Future_ | Joseph E. Stiglitz | 💰 | [Amazon](http://a.co/d/2JXjthW) |
+| | | | | _Why Nations Fail_ | Daron Acemoglu and James A. Robinson | 💰 | [Amazon](http://a.co/d/ceiQvID) |
+| | | | | _This Time Is Different: Eight Centuries of Financial Folly_ | Carmen Reinhart and Kenneth Rogoff | 💰 | [Amazon](http://a.co/d/eQjbg9H) |
+| | | | | _Beyond the Crash: Overcoming the First Crisis of Globalization_ | Gordon Brown | 💰 | [Amazon](http://a.co/d/dPOnyo7) |
+| | | | | _Too Big to Fail_ | Andrew Ross Sorkin | 💰 | [Amazon](http://a.co/d/cSWXE3C) |
+| | | | | _The World Is Flat: A Brief History of the Twenty-first Century_ | Thomas Friedman | 💰 | [Amazon](http://a.co/d/16F7ClF) |
+| | | | | _That Used to Be Us: How America Fell Behind in the World it Invented and How We Can Come Back_ | Thomas Friedman and Michael Mandelbaum | 💰 | [Amazon](http://a.co/d/djfOu42) |
+| | | | | _The End of Poverty_ | Jeffrey Sachs | 💰 | [Amazon](http://a.co/d/aHkYTLs) |
+| | | | | _In Fed We Trust: Ben Bernanke’s War on the Great Panic_ | David Wessel | 💰 | [Amazon](http://a.co/d/1Nf6kzM) |
+| | | | | _SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance_ | Steven Levitt and Stephen Dubner | 💰 | [Amazon](http://a.co/d/h3z0mO4) |
+| | | | | _The Rational Optimist: How Prosperity Evolves_ | Matt Ridley | 💰 | [Amazon](http://a.co/d/bvmeqYC) |
 | | | | | _Eradication: Ridding the World of Diseases Forever?_ | Nancy Leys Stepan | 💉 | [Amazon](http://a.co/d/) |
 | | | | | _The Fever: How Malaria Has Ruled Humankind for 500,000 Years_ | Sonia Shah | 💉 | [Amazon](http://a.co/d/) |
 | | | | | _House on Fire: The Fight to Eradicate Smallpox_ | William H. Foege | 💉 | [Amazon](http://a.co/d/) |
