@@ -19,6 +19,7 @@ Book recommendations, lists, reports, etc.
   - ➕: Math and logic
   - ⚗️: Science
   - 📈: Business
+  - 💰: Economics and wealth
   - 🏗️: Development and foreign aid
   - 🎓: Education
   - ☁️: Climate Change
@@ -145,25 +146,25 @@ Book recommendations, lists, reports, etc.
 | | | | | _Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century_ | Burton Richter | ☁️⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Hot, Flat, and Crowded: Why We Need a Green Revolution—and How it Can Renew America_ | Thomas Friedman | ☁️⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Reinventing Fire: Bold Business Solutions for the New Energy Era_ | Amory B. Lovins and Rocky Mountain Institute | ☁️⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ | J.D. Vance | | [Amazon](http://a.co/d/) |
-| | | | | _Evicted: Poverty and Profit in the American City_ | Matthew Desmond | | [Amazon](http://a.co/d/) |
-| | | | | _The Power to Compete: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy_ | Hiroshi Mikitani and Ryoichi Mikitani | | [Amazon](http://a.co/d/) |
-| | | | | _The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War_ | Robert Gordon | | [Amazon](http://a.co/d/) |
-| | | | | _How Asia Works: Success and Failure in the World’s Most Dynamic Region_ | Joe Studwell | | [Amazon](http://a.co/d/) |
-| | | | | _Capital in the Twenty-First Century_ | Thomas Piketty | | [Amazon](http://a.co/d/) |
-| | | | | _Stress Test: Reflections on Financial Crises_ | Timothy F. Geithner | | [Amazon](http://a.co/d/) |
-| | | | | _The Bet: Paul Ehrlich, Julian Simon, and our Gamble over Earth’s Future_ | Paul Sabin | | [Amazon](http://a.co/d/) |
-| | | | | _The Price of Inequality: How Today’s Divided Society Endangers our Future_ | Joseph E. Stiglitz | | [Amazon](http://a.co/d/) |
-| | | | | _Why Nations Fail_ | Daron Acemoglu and James A. Robinson | | [Amazon](http://a.co/d/) |
-| | | | | _This Time Is Different: Eight Centuries of Financial Folly_ | Carmen Reinhart and Kenneth Rogoff | | [Amazon](http://a.co/d/) |
-| | | | | _Beyond the Crash: Overcoming the First Crisis of Globalization_ | Gordon Brown | | [Amazon](http://a.co/d/) |
-| | | | | _Too Big to Fail_ | Andrew Ross Sorkin | | [Amazon](http://a.co/d/) |
-| | | | | _The World Is Flat: A Brief History of the Twenty-first Century_ | Thomas Friedman | | [Amazon](http://a.co/d/) |
-| | | | | _That Used to Be Us: How America Fell Behind in the World it Invented and How We Can Come Back_ | Thomas Friedman and Michael Mandelbaum | | [Amazon](http://a.co/d/) |
-| | | | | _The End of Poverty_ | Jeffrey Sachs | | [Amazon](http://a.co/d/) |
-| | | | | _In Fed We Trust: Ben Bernanke’s War on the Great Panic_ | David Wessel | | [Amazon](http://a.co/d/) |
-| | | | | _SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance_ | Steven Levitt and Stephen Dubner | | [Amazon](http://a.co/d/) |
-| | | | | _The Rational Optimist: How Prosperity Evolves_ | Matt Ridley | | [Amazon](http://a.co/d/) |
+| | | | | _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ | J.D. Vance | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Evicted: Poverty and Profit in the American City_ | Matthew Desmond | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The Power to Compete: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy_ | Hiroshi Mikitani and Ryoichi Mikitani | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The Rise and Fall of American Growth: The U.S. Standard of Living since the Civil War_ | Robert Gordon | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _How Asia Works: Success and Failure in the World’s Most Dynamic Region_ | Joe Studwell | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Capital in the Twenty-First Century_ | Thomas Piketty | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Stress Test: Reflections on Financial Crises_ | Timothy F. Geithner | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The Bet: Paul Ehrlich, Julian Simon, and our Gamble over Earth’s Future_ | Paul Sabin | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The Price of Inequality: How Today’s Divided Society Endangers our Future_ | Joseph E. Stiglitz | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Why Nations Fail_ | Daron Acemoglu and James A. Robinson | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _This Time Is Different: Eight Centuries of Financial Folly_ | Carmen Reinhart and Kenneth Rogoff | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Beyond the Crash: Overcoming the First Crisis of Globalization_ | Gordon Brown | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _Too Big to Fail_ | Andrew Ross Sorkin | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The World Is Flat: A Brief History of the Twenty-first Century_ | Thomas Friedman | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _That Used to Be Us: How America Fell Behind in the World it Invented and How We Can Come Back_ | Thomas Friedman and Michael Mandelbaum | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The End of Poverty_ | Jeffrey Sachs | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _In Fed We Trust: Ben Bernanke’s War on the Great Panic_ | David Wessel | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance_ | Steven Levitt and Stephen Dubner | 💰 | [Amazon](http://a.co/d/) |
+| | | | | _The Rational Optimist: How Prosperity Evolves_ | Matt Ridley | 💰 | [Amazon](http://a.co/d/) |
 | | | | | _Eradication: Ridding the World of Diseases Forever?_ | Nancy Leys Stepan | | [Amazon](http://a.co/d/) |
 | | | | | _The Fever: How Malaria Has Ruled Humankind for 500,000 Years_ | Sonia Shah | | [Amazon](http://a.co/d/) |
 | | | | | _House on Fire: The Fight to Eradicate Smallpox_ | William H. Foege | | [Amazon](http://a.co/d/) |
