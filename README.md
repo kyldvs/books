@@ -72,7 +72,24 @@ Book recommendations, lists, reports, etc.
 | | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
 | | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
 | | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
-    
+
+## Fiction
+
+| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main Topics | 🛒 |
+| - | - | - | - | - | - | - | - |
+| | | | | _The Heart_ | Maylis de Kerangal | | |
+| | | | | _The Sympathizer_ | Viet Thanh Nguyen | | |
+| | | | | _Seveneves_ | Neal Stephenson | | |
+| | | | | _The Rosie Effect_ | Graeme Simsion | | |
+| | | | | _The Rosie Project_ | Graeme Simsion | | |
+| | | | | _Patriot and Assassin_ | Robert Cook | | |
+| | | | | _Turtles All the Way Down_ | John Green | | |
+| | | | | _The Hunger Games_ | Suzanne Collins | | |
+| | | | | _The Cat’s Table_ | Michael Ondaatje | | |
+| | | | | _The Catcher in the Rye_ | J. D. Salinger | | |
+| | | | | _A Separate Peace_ | John Knowles | | |
+| | | | | _Lincoln in the Bardo_ | George Saunders | | |
+
 # Sources
 
 1. [All the books Bill Gates has recommended over the last eight years](https://qz.com/1285629/99-books-recommended-by-bill-gates-from-the-last-6-ck-years/)
