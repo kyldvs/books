@@ -17,9 +17,11 @@ Book recommendations, lists, reports, etc.
   - 💡: Inventions and technology
   - ⚡: Energy
   - ➕: Math and logic
+  - ⚗️: Science
   - 📈: Business
   - 🏗️: Development and foreign aid
   - 🎓: Education
+  - ☁️: Climate Change
 
 ## Non Fiction
 
@@ -123,26 +125,26 @@ Book recommendations, lists, reports, etc.
 | | | | | _Liberating Learning: Technology, Politics, and the Future of American Education_ | Terry M. Moe and John E. Chubb | 🎓 | [Amazon](http://a.co/d/) |
 | | | | | _Work Hard. Be Nice: How Two Inspired Teachers Created the Most Promising Schools in America_ | Jay Mathews | 🎓 | [Amazon](http://a.co/d/) |
 | | | | | _Value-Added Measures in Education: What Every Educator Needs to Know_ | Douglas N. Harris | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _The Gene: An Intimate History_ | Siddhartha Mukherjee | | [Amazon](http://a.co/d/) |
-| | | | | _For the Love of Physics: From the End of the Rainbow to the Edge of Time, a Journey through the Wonders of Physics_ | Walter Lewin | | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol 2: Mainly Electromagnetism and Matter_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol 3: Quantum Mechanics_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | | [Amazon](http://a.co/d/) |
-| | | | | _The New Science of Strong Materials_ | J.E. Gordon | | [Amazon](http://a.co/d/) |
-| | | | | _The Hair of the Dog and Other Scientific Surprises_ | Karl Sabbagh | | [Amazon](http://a.co/d/) |
-| | | | | _13 Things that Don’t Make Sense: The Most Baffling Scientific Mysteries of our Time_ | Michael Brooks | | [Amazon](http://a.co/d/) |
-| | | | | _Modernist Cuisine: The Art and Science of Cooking_ | Nathan Myhrvold | | [Amazon](http://a.co/d/) |
-| | | | | _The Emperor of All Maladies: A Biography of Cancer_ | Siddhartha Mukherjee | | [Amazon](http://a.co/d/) |
-| | | | | _I Contain Multitudes: The Microbes within Us and a Grander View of Life_ | Ed Yong | | [Amazon](http://a.co/d/) |
-| | | | | _Stuff Matters: Exploring the Marvelous Materials that Shape our Man-Made World_ | Mark Miodownik | | [Amazon](http://a.co/d/) |
-| | | | | _The Quest: Energy, Security, and the Remaking of the Modern World_ | Daniel Yergin | | [Amazon](http://a.co/d/) |
-| | | | | _Sustainable Energy—without the Hot Air_ | David J.C. MacKay | | [Amazon](http://a.co/d/) |
-| | | | | _Unlocking Energy Innovation_ | Richard K. Lester and David M. Hart | | [Amazon](http://a.co/d/) |
-| | | | | _World on the Edge: How to Prevent Environmental and Economic Collapse_ | Lester R. Brown | | [Amazon](http://a.co/d/) |
-| | | | | _Global Warming: The Complete Briefing_ | John Houghton | | [Amazon](http://a.co/d/) |
-| | | | | _Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century_ | Burton Richter | | [Amazon](http://a.co/d/) |
-| | | | | _Hot, Flat, and Crowded: Why We Need a Green Revolution—and How it Can Renew America_ | Thomas Friedman | | [Amazon](http://a.co/d/) |
-| | | | | _Reinventing Fire: Bold Business Solutions for the New Energy Era_ | Amory B. Lovins and Rocky Mountain Institute | | [Amazon](http://a.co/d/) |
+| | | | | _The Gene: An Intimate History_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _For the Love of Physics: From the End of the Rainbow to the Edge of Time, a Journey through the Wonders of Physics_ | Walter Lewin | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Feynman Lectures on Physics, Vol 2: Mainly Electromagnetism and Matter_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Feynman Lectures on Physics, Vol 3: Quantum Mechanics_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _The New Science of Strong Materials_ | J.E. Gordon | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Hair of the Dog and Other Scientific Surprises_ | Karl Sabbagh | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _13 Things that Don’t Make Sense: The Most Baffling Scientific Mysteries of our Time_ | Michael Brooks | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Modernist Cuisine: The Art and Science of Cooking_ | Nathan Myhrvold | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Emperor of All Maladies: A Biography of Cancer_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _I Contain Multitudes: The Microbes within Us and a Grander View of Life_ | Ed Yong | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Stuff Matters: Exploring the Marvelous Materials that Shape our Man-Made World_ | Mark Miodownik | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _The Quest: Energy, Security, and the Remaking of the Modern World_ | Daniel Yergin | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Sustainable Energy—without the Hot Air_ | David J.C. MacKay | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Unlocking Energy Innovation_ | Richard K. Lester and David M. Hart | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _World on the Edge: How to Prevent Environmental and Economic Collapse_ | Lester R. Brown | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Global Warming: The Complete Briefing_ | John Houghton | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Beyond Smoke and Mirrors: Climate Change and Energy in the 21st Century_ | Burton Richter | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Hot, Flat, and Crowded: Why We Need a Green Revolution—and How it Can Renew America_ | Thomas Friedman | ☁️⚡ | [Amazon](http://a.co/d/) |
+| | | | | _Reinventing Fire: Bold Business Solutions for the New Energy Era_ | Amory B. Lovins and Rocky Mountain Institute | ☁️⚡ | [Amazon](http://a.co/d/) |
 | | | | | _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ | J.D. Vance | | [Amazon](http://a.co/d/) |
 | | | | | _Evicted: Poverty and Profit in the American City_ | Matthew Desmond | | [Amazon](http://a.co/d/) |
 | | | | | _The Power to Compete: An Economist and an Entrepreneur on Revitalizing Japan in the Global Economy_ | Hiroshi Mikitani and Ryoichi Mikitani | | [Amazon](http://a.co/d/) |
