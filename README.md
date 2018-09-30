@@ -11,7 +11,7 @@ Book recommendations, lists, reports, etc.
   - ✏️: Wrote a report
   - 🛒: Link to purchase
 - Topics
-  - 👴: Biography
+  - 🙋: Biography or Memoir
   - 🏛️: Politics
   - 🏙️: Society and Civilization
   - 💡: Inventions and Technology
@@ -22,10 +22,10 @@ Book recommendations, lists, reports, etc.
 
 | 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main Topics | 🛒 |
 | - | - | - | - | - | - | - | - |
-| | | | | _A Full Life: Reflections at Ninety_ | Jimmy Carter | 🏛️👴 | [Amazon](http://a.co/d/75i8dJW) |
-| | | | | _Being Nixon: A Man Divided_ | Evan Thomas | 🏛️👴 | [Amazon](http://a.co/d/9VhcJCu ) |
-| | | | | _The Bully Pulpit: Theodore Roosevelt and the Golden Age of Journalism_ | Doris Kearns Goodwin | 🏛️👴 | [Amazon](http://a.co/d/6Cm4T4A) |
-| | | | | _Deng Xiaoping and the Transformation of China_ | Ezra Vogel | 🏛️👴 | [Amazon](http://a.co/d/01qHXzI) |
+| | | | | _A Full Life: Reflections at Ninety_ | Jimmy Carter | 🏛️🙋 | [Amazon](http://a.co/d/75i8dJW) |
+| | | | | _Being Nixon: A Man Divided_ | Evan Thomas | 🏛️🙋 | [Amazon](http://a.co/d/9VhcJCu ) |
+| | | | | _The Bully Pulpit: Theodore Roosevelt and the Golden Age of Journalism_ | Doris Kearns Goodwin | 🏛️🙋 | [Amazon](http://a.co/d/6Cm4T4A) |
+| | | | | _Deng Xiaoping and the Transformation of China_ | Ezra Vogel | 🏛️🙋 | [Amazon](http://a.co/d/01qHXzI) |
 | | | | | _A Nation of Wusses: How America’s Leaders Lost the Guts to Make Us Great_ | Ed Rendell | 🏛️ | [Amazon]( http://a.co/d/iKsa3L1) |
 | | | | | _Titan II: A History of a Cold War Missile Program_ | David K. Stumpf | 🏛️ | [Amazon](http://a.co/d/7RXxEhF) |
 | 🗸 | | 🗸 | | _Homo Deus: A Brief History of Tomorrow_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/04glhsl) |
@@ -60,11 +60,19 @@ Book recommendations, lists, reports, etc.
 | | | | | _Poor Charlie’s Almanack_ | Peter D. Kaufman and Ed Wexler | 📈 | |
 | | | | | _Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone_ | Satya Nadella | 📈 | [Amazon](http://a.co/d/fjBeh7c) |
 | | | | | _Science Business: The Promise, the Reality, and the Future of Biotech_ | Gary P. Pisano | 📈 | [Amazon](http://a.co/d/8ZQNQ67) |
-| | | | | _Einstein_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/8SZN33G) |
-| | | | | _Broken Genius_ | Joel Shurkin | 👴 | [Amazon](http://a.co/d/7oFGaOI) |
-| | | | | _Leonardo da Vinci_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/2Bbz0eI) |
-| | | | | _Steve Jobs_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/2kvLxIV) |
-
+| | | | | _Einstein_ | Walter Isaacson | 🙋 | [Amazon](http://a.co/d/8SZN33G) |
+| | | | | _Broken Genius_ | Joel Shurkin | 🙋 | [Amazon](http://a.co/d/7oFGaOI) |
+| | | | | _Leonardo da Vinci_ | Walter Isaacson | 🙋 | [Amazon](http://a.co/d/2Bbz0eI) |
+| | | | | _Steve Jobs_ | Walter Isaacson | 🙋 | [Amazon](http://a.co/d/2kvLxIV) |
+| | | | | _Born a Crime_ | Trevor Noah | 🙋 | [Amazon](http://a.co/d/3AkqdKe) |
+| | | | | _The Best We Could Do_ | Thi Bui | 🙋 | [Amazon](http://a.co/d/1pdOmH1) |
+| | | | | _Believe Me_ | Eddie Izzard | 🙋 | [Amazon](http://a.co/d/26qOtdK) |
+| | | | | _Hyperbole and a Half_ | Allie Brosh | 🙋 | [Amazon](http://a.co/d/dbxgnlE) |
+| | | | | _On Immunity: An Inoculation_ | Eula Biss | 🙋 | [Amazon](http://a.co/d/4BLYb95) |
+| | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
+| | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
+| | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
+    
 # Sources
 
 1. [All the books Bill Gates has recommended over the last eight years](https://qz.com/1285629/99-books-recommended-by-bill-gates-from-the-last-6-ck-years/)
