@@ -10,7 +10,7 @@ Book recommendations, lists, reports, etc.
   - ✔️: Read or listened to
   - ✏️: Wrote a report
   - 🛒: Link to purchase
-- Topics
+- Categories
   - 🙋: Biography or Memoir
   - 🏛️: Politics
   - 🏙️: Society and Civilization
@@ -21,7 +21,7 @@ Book recommendations, lists, reports, etc.
 
 ## Non Fiction
 
-| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main&nbsp;Topics | 🛒 |
+| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Categories | 🛒 |
 | - | - | - | - | - | - | - | - |
 | | | | | _A Full Life: Reflections at Ninety_ | Jimmy Carter | 🏛️🙋 | [Amazon](http://a.co/d/75i8dJW) |
 | | | | | _Being Nixon: A Man Divided_ | Evan Thomas | 🏛️🙋 | [Amazon](http://a.co/d/9VhcJCu ) |
