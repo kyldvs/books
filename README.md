@@ -14,6 +14,7 @@ Book recommendations, lists, reports, etc.
   - 👴: Biography
   - 🏛️: Politics
   - 🏙️: Society / Civilization
+  - 💡: Inventions / Technology
 
 ## Non Fiction
 
@@ -38,6 +39,12 @@ Book recommendations, lists, reports, etc.
 | | 🗸 | | | _Big History: From the Big Bang to the Present_ | Cynthia Brown | 🏙️ | [Amazon](http://a.co/d/dRmyOMU) |
 | | | | | _Origin Story: A Big History of Everything_ | David Christian | 🏙️ | [Amazon](http://a.co/d/cCfHDGn) |
 | | | | | _Limits to Growth: The 30-Year Update_ | Donella Meadows, Jorgen Randers, and Dennis Meadows | 🏙️ | [Amazon](http://a.co/d/4uvQ2rb) |
+| | | | | _The Grid: The Fraying Wires Between Americans and our Energy Future_ | Gretchen Bakke | 💡 | [Amazon](http://a.co/d/3ePdRqG) |
+| | | | | _Sustainable Materials with both Eyes Open_ | Julian M. Allwood and Jonathan M. Cullen | 💡 | [Amazon](http://a.co/d/gTZu72b) |
+| | | | | _The Most Powerful Idea in the World: A Story of Steam, Industry and Invention_ | William Rosen | 💡 | [Amazon](http://a.co/d/jafegMb) |
+| | | | | _The Grid: A Journey Through the Heart of our Electrified World_ | Phillip F. Schewe | 💡 | [Amazon](http://a.co/d/fQVTBEb) |
+| | | | | _The Path Between the Seas: The Creation of the Panama Canal, 1870-1914_ | David McCullough | 💡 | [Amazon](http://a.co/d/h77Ta7e) |
+| | | | | _The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger_ | Marc Levinson | 💡 | [Amazon](http://a.co/d/3lGeTN9) |
 
 # Sources
 
