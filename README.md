@@ -23,6 +23,10 @@ Book recommendations, lists, reports, etc.
   - 🏗️: Development and foreign aid
   - 🎓: Education
   - ☁️: Climate Change
+  - 💉: Health and disease
+  - 👑: Leadership and management
+  - 😃: Happiness, psychology, and purpose
+  - 🎾: Tennis
 
 ## Non Fiction
 
@@ -165,39 +169,39 @@ Book recommendations, lists, reports, etc.
 | | | | | _In Fed We Trust: Ben Bernanke’s War on the Great Panic_ | David Wessel | 💰 | [Amazon](http://a.co/d/) |
 | | | | | _SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance_ | Steven Levitt and Stephen Dubner | 💰 | [Amazon](http://a.co/d/) |
 | | | | | _The Rational Optimist: How Prosperity Evolves_ | Matt Ridley | 💰 | [Amazon](http://a.co/d/) |
-| | | | | _Eradication: Ridding the World of Diseases Forever?_ | Nancy Leys Stepan | | [Amazon](http://a.co/d/) |
-| | | | | _The Fever: How Malaria Has Ruled Humankind for 500,000 Years_ | Sonia Shah | | [Amazon](http://a.co/d/) |
-| | | | | _House on Fire: The Fight to Eradicate Smallpox_ | William H. Foege | | [Amazon](http://a.co/d/) |
-| | | | | _Smallpox: The Death of a Disease_ | D.A. Henderson | | [Amazon](http://a.co/d/) |
-| | | | | _Infections and Inequalities: The Modern Plagues_ | Paul Farmer | | [Amazon](http://a.co/d/) |
-| | | | | _Reinventing American Health Care: How the Affordable Care Act Will Improve our Terribly Complex, Blatantly Unjust, Outrageously Expensive, Grossly Inefficient, Error Prone System_ | Ezekiel Emanuel | | [Amazon](http://a.co/d/) |
-| | | | | _The Checklist Manifesto: How to Get Things Right_ | Atul Gawande | | [Amazon](http://a.co/d/) |
-| | | | | _Global Health: An Introductory Textbook_ | A. Lindstrand, et al. | | [Amazon](http://a.co/d/) |
-| | | | | _Health Care Will Not Reform Itself_ | George Halvorson | | [Amazon](http://a.co/d/) |
-| | | | | _Dirt and Disease: Polio before FDR_ | Naomi Rogers | | [Amazon](http://a.co/d/) |
-| | | | | _The Making of a Tropical Disease: A Short History of Malaria_ | Randall M. Packard | | [Amazon](http://a.co/d/) |
-| | | | | _Priorities in Health_ | Dean T. Jamison and Joel G. Breman | | [Amazon](http://a.co/d/) |
-| | | | | _Vaccine: The Controversial Story of Medicine’s Greatest Lifesaver_ | Arthur Allen | | [Amazon](http://a.co/d/) |
-| | | | | _Tropical Infectious Diseases_ | Richard L. Guerrant and David H. Walker | | [Amazon](http://a.co/d/) |
-| | | | | _Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man who Would Cure the World_ | Tracy Kidder | | [Amazon](http://a.co/d/) |
-| | | | | _Polio: An American Story_ | David Oshinsky | | [Amazon](http://a.co/d/) |
-| | | | | _Epic Measures: One Doctor. Seven Billion Patients_ | Jeremy Smith | | [Amazon](http://a.co/d/) |
-| | | | | _The Myth of the Strong Leader_ | Archie Brown | | [Amazon](http://a.co/d/) |
-| | | | | _Mindset: The New Psychology of Success_ | Carol Dweck | | [Amazon](http://a.co/d/) |
-| | | | | _How Children Succeed: Grit, Curiosity, and the Hidden Power of Character_ | Paul Tough | | [Amazon](http://a.co/d/) |
-| | | | | _The Art of Being Unreasonable: Lessons in Unconventional Thinking_ | Eli Broad | | [Amazon](http://a.co/d/) |
-| | | | | _Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs_ | John Doerr | | [Amazon](http://a.co/d/) |
-| | | | | _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_ | Tim Brown | | [Amazon](http://a.co/d/) |
-| | | | | _The Road to Character_ | David Brooks | | [Amazon](http://a.co/d/) |
-| | | | | _Where Good Ideas Come from_ | Steven Johnson | | [Amazon](http://a.co/d/) |
-| | | | | _Awakening Joy_ | James Baraz and Shoshana Alexander | | [Amazon](http://a.co/d/) |
-| | | | | _Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do_ | Claude Steele | | [Amazon](http://a.co/d/) |
-| | | | | _Outliers_ | Malcolm Gladwell | | [Amazon](http://a.co/d/) |
-| | | | | _Showing up for Life_ | Bill Gates Sr. | | [Amazon](http://a.co/d/) |
-| | | | | _Life Is What You Make It_ | Peter Buffett | | [Amazon](http://a.co/d/) |
-| | | | | _String Theory_ | David Foster Wallace | | [Amazon](http://a.co/d/) |
-| | | | | _A Champion’s Mind_ | Pete Sampras | | [Amazon](http://a.co/d/) |
-| | | | | _Open_ | Andre Agassi | | [Amazon](http://a.co/d/) |
+| | | | | _Eradication: Ridding the World of Diseases Forever?_ | Nancy Leys Stepan | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _The Fever: How Malaria Has Ruled Humankind for 500,000 Years_ | Sonia Shah | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _House on Fire: The Fight to Eradicate Smallpox_ | William H. Foege | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Smallpox: The Death of a Disease_ | D.A. Henderson | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Infections and Inequalities: The Modern Plagues_ | Paul Farmer | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Reinventing American Health Care: How the Affordable Care Act Will Improve our Terribly Complex, Blatantly Unjust, Outrageously Expensive, Grossly Inefficient, Error Prone System_ | Ezekiel Emanuel | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _The Checklist Manifesto: How to Get Things Right_ | Atul Gawande | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Global Health: An Introductory Textbook_ | A. Lindstrand, et al. | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Health Care Will Not Reform Itself_ | George Halvorson | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Dirt and Disease: Polio before FDR_ | Naomi Rogers | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _The Making of a Tropical Disease: A Short History of Malaria_ | Randall M. Packard | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Priorities in Health_ | Dean T. Jamison and Joel G. Breman | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Vaccine: The Controversial Story of Medicine’s Greatest Lifesaver_ | Arthur Allen | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Tropical Infectious Diseases_ | Richard L. Guerrant and David H. Walker | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man who Would Cure the World_ | Tracy Kidder | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Polio: An American Story_ | David Oshinsky | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _Epic Measures: One Doctor. Seven Billion Patients_ | Jeremy Smith | 💉 | [Amazon](http://a.co/d/) |
+| | | | | _The Myth of the Strong Leader_ | Archie Brown | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _Mindset: The New Psychology of Success_ | Carol Dweck | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _How Children Succeed: Grit, Curiosity, and the Hidden Power of Character_ | Paul Tough | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _The Art of Being Unreasonable: Lessons in Unconventional Thinking_ | Eli Broad | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs_ | John Doerr | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_ | Tim Brown | 👑 | [Amazon](http://a.co/d/) |
+| | | | | _The Road to Character_ | David Brooks | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Where Good Ideas Come from_ | Steven Johnson | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Awakening Joy_ | James Baraz and Shoshana Alexander | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do_ | Claude Steele | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Outliers_ | Malcolm Gladwell | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Showing up for Life_ | Bill Gates Sr. | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _Life Is What You Make It_ | Peter Buffett | 😃 | [Amazon](http://a.co/d/) |
+| | | | | _String Theory_ | David Foster Wallace | 🎾 | [Amazon](http://a.co/d/) |
+| | | | | _A Champion’s Mind_ | Pete Sampras | 🎾 | [Amazon](http://a.co/d/) |
+| | | | | _Open_ | Andre Agassi | 🎾 | [Amazon](http://a.co/d/) |
 | | | | | _Moonwalking with Einstein: The Art and Science of Remembering Everything_ | Joshua Foer | | [Amazon](http://a.co/d/) |
 | | | | | _The City that Became Safe: New York’s Lessons for Urban Crime and Its Control_ | Franklin Zimring | | [Amazon](http://a.co/d/) |
 | | | | | _Frank Stewart’s Bridge Club_ | Frank Stewart | | [Amazon](http://a.co/d/) |
