@@ -16,6 +16,7 @@ Book recommendations, lists, reports, etc.
   - 🏙️: Society and Civilization
   - 💡: Inventions and Technology
   - ➕: Math and Logic
+  - 📈: Business
 
 ## Non Fiction
 
@@ -53,6 +54,12 @@ Book recommendations, lists, reports, etc.
 | | | | | _Thing Explainer: Complicated Stuff in Simple Words_ | Randall Munroe | ➕ | [Amazon](http://a.co/d/7Ksfmoe) |
 | | | | | _Factfulness: Ten Reasons We’re Wrong About the World—and Why Things Are Better than You Think_ | Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling | ➕ | [Amazon](http://a.co/d/a7xqFhM) |
 | | | | | _The Signal and the Noise: Why So Many Predictions Fail—but Some Don’t_ | Nate Silver | ➕ | [Amazon](http://a.co/d/4G80xGA) |
+| | | | | _Business Adventures: Twelve Classic Tales from the World of Wall Street_ | John Brooks | 📈 | [Amazon](http://a.co/d/inbkVIc) |
+| | | | | _Shoe Dog: A Memoir by the Creator of Nike_ | Phil Knight | 📈 | [Amazon](http://a.co/d/5VR2XF6) |
+| | | | | _Tap Dancing to Work: Warren Buffett on Practically Everything_ | Carol J. Loomis | 📈 | [Amazon](http://a.co/d/geT3bDk) |
+| | | | | _Poor Charlie’s Almanack_ | Peter D. Kaufman and Ed Wexler | 📈 | |
+| | | | | _Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone_ | Satya Nadella | 📈 | [Amazon](http://a.co/d/fjBeh7c) |
+| | | | | _Science Business: The Promise, the Reality, and the Future of Biotech_ | Gary P. Pisano | 📈 | [Amazon](http://a.co/d/8ZQNQ67) |
 
 # Sources
 
