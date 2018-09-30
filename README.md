@@ -21,7 +21,7 @@ Book recommendations, lists, reports, etc.
 
 ## Non Fiction
 
-| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main Topics | 🛒 |
+| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main&nbsp;Topics | 🛒 |
 | - | - | - | - | - | - | - | - |
 | | | | | _A Full Life: Reflections at Ninety_ | Jimmy Carter | 🏛️🙋 | [Amazon](http://a.co/d/75i8dJW) |
 | | | | | _Being Nixon: A Man Divided_ | Evan Thomas | 🏛️🙋 | [Amazon](http://a.co/d/9VhcJCu ) |
