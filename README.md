@@ -82,36 +82,36 @@ Book recommendations, lists, reports, etc.
 | | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
 | | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
 | | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
-| | | | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Should We Eat Meat?_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Making the Modern World: Materials and Dematerialization_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Harvesting the Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy Myths and Realities_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Japan’s Dietary Transition and Its Impacts_ | Vaclav Smil and Kazuhiko Kobayashi | | [Amazon](http://a.co/d/) |
-| | | | | _Made in the USA: The Rise and Retreat of American Manufacturing_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Prime Movers of Globalization_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _The Earth’s Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy at the Crossroads_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Energies: An Illustrated Guide to the Biosphere and Civilization_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Global Catastrophes and Trends_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Enriching the Earth_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Why America is Not a New Rome_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Transforming the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Energy Transitions: History, Requirements, Prospects_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/) |
-| | | | | _Creating the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/) |
-| | | | | _Poor Numbers: How We are Misled by African Development Statistics and What to Do About it_ | Morten Jerven | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Getting Better: Why Global Development is Succeeding—and How We Can Improve the World Even More_ | Charles Kenny | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity_ | Katherine Boo | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Man Who Fed the World: Nobel Peace Prize Laureate Norman Borlaug and His Battle to End World Hunger_ | Leon Hesser | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Last Hunger Season: A Year in an African Farm Community on the Brink of Change_ | Roger Thurow | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _However Long the Night: Molly Melching’s Journey to Help Millions of African Women and Girls Triumph_ | Aimee Molloy | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _In the Company of the Poor_ | Paul Farmer and Gustavo Gutierrez | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Mighty be Our Powers: How Sisterhood, Prayer, and Sex Changed a Nation at War_ | Leymah Gbowee | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _One Billion Hungry: Can We Feed the World?_ | Gordon Conway | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty_ | Abhijit Vinayak Banerjee and Esther Duflo | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _How to Spend $50 Billion to Make the World a Better Place_ | Bjørn Lomborg | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Foundation: How Private Wealth Is Changing the World_ | Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Give Smart: Philanthropy that Gets Results_ | Thomas J. Tierney and Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/) |
+| | | | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/bYQcqT5) |
+| | | | | _Should We Eat Meat?_ | Vaclav Smil | | [Amazon](http://a.co/d/7VR5XwA) |
+| | | | | _Making the Modern World: Materials and Dematerialization_ | Vaclav Smil | | [Amazon](http://a.co/d/60zTMQv) |
+| | | | | _Harvesting the Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/cv5weE9) |
+| | | | | _Energy Myths and Realities_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/fIA2YH4) |
+| | | | | _Japan’s Dietary Transition and Its Impacts_ | Vaclav Smil and Kazuhiko Kobayashi | | [Amazon](http://a.co/d/8Y5hbVd) |
+| | | | | _Made in the USA: The Rise and Retreat of American Manufacturing_ | Vaclav Smil | | [Amazon](http://a.co/d/hwPHLZp) |
+| | | | | _Prime Movers of Globalization_ | Vaclav Smil | | [Amazon](http://a.co/d/4HOtX5b) |
+| | | | | _The Earth’s Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/75pR2zC) |
+| | | | | _Energy at the Crossroads_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/3HS4icv) |
+| | | | | _Energies: An Illustrated Guide to the Biosphere and Civilization_ | Vaclav Smil | ⚡ | |
+| | | | | _Global Catastrophes and Trends_ | Vaclav Smil | | [Amazon](http://a.co/d/918HBb2) |
+| | | | | _Enriching the Earth_ | Vaclav Smil | | [Amazon](http://a.co/d/7IFbMPT) |
+| | | | | _Why America is Not a New Rome_ | Vaclav Smil | | [Amazon](http://a.co/d/dKbqhV0) |
+| | | | | _Transforming the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/1zkYyKg) |
+| | | | | _Energy Transitions: History, Requirements, Prospects_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/22BtSic) |
+| | | | | _Creating the Twentieth Century_ | Vaclav Smil | | [Amazon](http://a.co/d/96jgMfX) |
+| | | | | _Poor Numbers: How We are Misled by African Development Statistics and What to Do About it_ | Morten Jerven | 🏗️ | [Amazon](http://a.co/d/ekR206H) |
+| | | | | _Getting Better: Why Global Development is Succeeding—and How We Can Improve the World Even More_ | Charles Kenny | 🏗️ | [Amazon](http://a.co/d/j5b1EzB) |
+| | | | | _Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity_ | Katherine Boo | 🏗️ | [Amazon](http://a.co/d/avxkEqy) |
+| | | | | _The Man Who Fed the World: Nobel Peace Prize Laureate Norman Borlaug and His Battle to End World Hunger_ | Leon Hesser | 🏗️ | |
+| | | | | _The Last Hunger Season: A Year in an African Farm Community on the Brink of Change_ | Roger Thurow | 🏗️ | [Amazon](http://a.co/d/g5NgY7U) |
+| | | | | _However Long the Night: Molly Melching’s Journey to Help Millions of African Women and Girls Triumph_ | Aimee Molloy | 🏗️ | [Amazon](http://a.co/d/eoL1XIT) |
+| | | | | _In the Company of the Poor_ | Paul Farmer and Gustavo Gutierrez | 🏗️ | [Amazon](http://a.co/d/erC3DJz) |
+| | | | | _Mighty be Our Powers: How Sisterhood, Prayer, and Sex Changed a Nation at War_ | Leymah Gbowee | 🏗️ | [Amazon](http://a.co/d/5qQ8Cy6) |
+| | | | | _One Billion Hungry: Can We Feed the World?_ | Gordon Conway | 🏗️ | [Amazon](http://a.co/d/8LHpQRy) |
+| | | | | _Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty_ | Abhijit Vinayak Banerjee and Esther Duflo | 🏗️ | [Amazon](http://a.co/d/8fSze6M) |
+| | | | | _How to Spend $50 Billion to Make the World a Better Place_ | Bjørn Lomborg | 🏗️ | [Amazon](http://a.co/d/bx2uJYq) |
+| | | | | _The Foundation: How Private Wealth Is Changing the World_ | Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/aBtlok2) |
+| | | | | _Give Smart: Philanthropy that Gets Results_ | Thomas J. Tierney and Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/di2sd7P) |
 | | | | | _Jim Grant—UNICEF Visionary_ | Richard Jolly (Ed.) | 🏗️ | [Amazon](http://a.co/d/) |
 | | | | | _Tomorrow’s Table: Organic Farming, Genetics, and the Future of Food_ | Pamela Ronald and Raoul Adamchak | 🏗️ | [Amazon](http://a.co/d/) |
 | | | | | _The Great Escape: Health, Wealth, and the Origins of Inequality_ | Angus Deaton | 🏗️ | [Amazon](http://a.co/d/) |
