@@ -6,15 +6,16 @@ Book recommendations, lists, reports, etc.
 
 - Headers
   - 🎧: Own on Audible
-  - 📱: Own on Kindle  
+  - 📱: Own on Kindle or print
   - ✔️: Read or listened to
   - ✏️: Wrote a report
   - 🛒: Link to purchase
 - Topics
   - 👴: Biography
   - 🏛️: Politics
-  - 🏙️: Society / Civilization
-  - 💡: Inventions / Technology
+  - 🏙️: Society and Civilization
+  - 💡: Inventions and Technology
+  - ➕: Math and Logic
 
 ## Non Fiction
 
@@ -45,6 +46,13 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Grid: A Journey Through the Heart of our Electrified World_ | Phillip F. Schewe | 💡 | [Amazon](http://a.co/d/fQVTBEb) |
 | | | | | _The Path Between the Seas: The Creation of the Panama Canal, 1870-1914_ | David McCullough | 💡 | [Amazon](http://a.co/d/h77Ta7e) |
 | | | | | _The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger_ | Marc Levinson | 💡 | [Amazon](http://a.co/d/3lGeTN9) |
+| 🗸 | 🗸 | 🗸 | | _How Not to Be Wrong: The Power of Mathematical Thinking_ | Jordan Ellenberg | ➕ | [Amazon](http://a.co/d/anolyV7) |
+| | | | | _The Magic of Reality: How We Know What’s really True_ | Richard Dawkins | ➕ | [Amazon](http://a.co/d/2fkYqUG) |
+| | | | | _What If? Serious Scientific Answers to Absurd Hypothetical Questions_ | Randall Munroe | ➕ | [Amazon](http://a.co/d/7ifmA7T) |
+| 🗸 | 🗸 | | | _How to Lie With Statistics_ | Darrell Huff | ➕ | [Amazon](http://a.co/d/2V7jyO2) |
+| | | | | _Thing Explainer: Complicated Stuff in Simple Words_ | Randall Munroe | ➕ | [Amazon](http://a.co/d/7Ksfmoe) |
+| | | | | _Factfulness: Ten Reasons We’re Wrong About the World—and Why Things Are Better than You Think_ | Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling | ➕ | [Amazon](http://a.co/d/a7xqFhM) |
+| | | | | _The Signal and the Noise: Why So Many Predictions Fail—but Some Don’t_ | Nate Silver | ➕ | [Amazon](http://a.co/d/4G80xGA) |
 
 # Sources
 
