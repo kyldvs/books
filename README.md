@@ -60,6 +60,10 @@ Book recommendations, lists, reports, etc.
 | | | | | _Poor Charlie’s Almanack_ | Peter D. Kaufman and Ed Wexler | 📈 | |
 | | | | | _Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone_ | Satya Nadella | 📈 | [Amazon](http://a.co/d/fjBeh7c) |
 | | | | | _Science Business: The Promise, the Reality, and the Future of Biotech_ | Gary P. Pisano | 📈 | [Amazon](http://a.co/d/8ZQNQ67) |
+| | | | | _Einstein_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/8SZN33G) |
+| | | | | _Broken Genius_ | Joel Shurkin | 👴 | [Amazon](http://a.co/d/7oFGaOI) |
+| | | | | _Leonardo da Vinci_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/2Bbz0eI) |
+| | | | | _Steve Jobs_ | Walter Isaacson | 👴 | [Amazon](http://a.co/d/2kvLxIV) |
 
 # Sources
 
