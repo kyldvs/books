@@ -112,29 +112,46 @@ Book recommendations, lists, reports, etc.
 | | | | | _How to Spend $50 Billion to Make the World a Better Place_ | Bjørn Lomborg | 🏗️ | [Amazon](http://a.co/d/bx2uJYq) |
 | | | | | _The Foundation: How Private Wealth Is Changing the World_ | Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/aBtlok2) |
 | | | | | _Give Smart: Philanthropy that Gets Results_ | Thomas J. Tierney and Joel L. Fleishman | 🏗️ | [Amazon](http://a.co/d/di2sd7P) |
-| | | | | _Jim Grant—UNICEF Visionary_ | Richard Jolly (Ed.) | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Tomorrow’s Table: Organic Farming, Genetics, and the Future of Food_ | Pamela Ronald and Raoul Adamchak | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Great Escape: Health, Wealth, and the Origins of Inequality_ | Angus Deaton | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _The Idealist: Jeffrey Sachs and the Quest to End Poverty_ | Nina Munk | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Interventions: A Life in War and Peace_ | Kofi Annan | 🏗️ | [Amazon](http://a.co/d/) |
-| | | | | _Why Does College Cost So Much?_ | Robert B. Archibald and David H. Feldman | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _A World-Class Education: Learning from International Models of Excellence and Innovation_ | Vivien Stewart | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Academically Adrift: Limited Learning on College Campuses_ | Richard Arum and Joshipa Roksa | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Why Don’t Students Like School? A Cognitive Scientist Answers Questions about how the Mind Works and What It Means for the Classroom_ | Dan T. Willingham | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Change.edu: Rebooting for the New Talent Economy_ | Andrew Rosen | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Unlocking the Gates_ | Taylor Walsh | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Class Warfare: Inside the Fight to Fix America’s Schools_ | Steven Brill | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Who’s Teaching your Children?_ | Vivian Troen and Katherine C. Boles | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Stretching the School Dollar: How Schools and Districts Can Save Money while Serving Students Best_ | Frederick M. Hess and Eric Osberg (Eds.) | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Where Do School Funds Go?_ | Marguerite Roza | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Liberating Learning: Technology, Politics, and the Future of American Education_ | Terry M. Moe and John E. Chubb | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Work Hard. Be Nice: How Two Inspired Teachers Created the Most Promising Schools in America_ | Jay Mathews | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _Value-Added Measures in Education: What Every Educator Needs to Know_ | Douglas N. Harris | 🎓 | [Amazon](http://a.co/d/) |
-| | | | | _The Gene: An Intimate History_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _For the Love of Physics: From the End of the Rainbow to the Edge of Time, a Journey through the Wonders of Physics_ | Walter Lewin | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol. 1: Mainly Mechanics, Radiation, and Heat_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol 2: Mainly Electromagnetism and Matter_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
-| | | | | _Feynman Lectures on Physics, Vol 3: Quantum Mechanics_ | Richard P. Feynman, Robert B. Leighton, and Matthew Sands | ⚗️ | [Amazon](http://a.co/d/) |
+| | | | | _Jim Grant—UNICEF Visionary_ | Richard Jolly (Ed.) | 🏗️ | |
+| | | | | _Tomorrow’s Table: Organic Farming, Genetics, and the Future of Food_ | Pamela Ronald and Raoul Adamchak | 🏗️ | [Amazon](http://a.co/d/3oyLPma) |
+| | | | | _The Great Escape: Health, Wealth, and the Origins of Inequality_ | Angus Deaton | 🏗️ | [Amazon](http://a.co/d/5qqPTLi) |
+| | | | | _The Idealist: Jeffrey Sachs and the Quest to End Poverty_ | Nina Munk | 🏗️ | [Amazon](http://a.co/d/4fluNIF) |
+| | | | | _Interventions: A Life in War and Peace_ | Kofi Annan | 🏗️ | [Amazon](http://a.co/d/3N09OaF) |
+| | | | | _Why Does College Cost So Much?_ | Robert B. Archibald and David H. Feldman | 🎓 | [Amazon](http://a.co/d/cxHNyig) |
+| | | | | _A World-Class Education: Learning from International Models of Excellence and Innovation_ | Vivien Stewart | 🎓 | [Amazon](http://a.co/d/13cUlFS) |
+| | | | | _Academically Adrift: Limited Learning on College Campuses_ | Richard Arum and Joshipa Roksa | 🎓 | [Amazon](http://a.co/d/g0BLw4O) |
+| | | | | _Why Don’t Students Like School? A Cognitive Scientist Answers Questions about how the Mind Works and What It Means for the Classroom_ | Dan T. Willingham | 🎓 | [Amazon](http://a.co/d/4S6Iu3J) |
+| | | | | _Change.edu: Rebooting for the New Talent Economy_ | Andrew Rosen | 🎓 | [Amazon](http://a.co/d/7P2RomU) |
+| | | | | _Unlocking the Gates_ | Taylor Walsh | 🎓 | [Amazon](http://a.co/d/29cpQuJ) |
+| | | | | _Class Warfare: Inside the Fight to Fix America’s Schools_ | Steven Brill | 🎓 | [Amazon](http://a.co/d/fRuSnh9) |
+| | | | | _Who’s Teaching your Children?_ | Vivian Troen and Katherine C. Boles | 🎓 | [Amazon](http://a.co/d/2rl4zg5) |
+| | | | | _Stretching the School Dollar: How Schools and Districts Can Save Money while Serving Students Best_ | Frederick M. Hess and Eric Osberg (Eds.) | 🎓 | [Amazon](http://a.co/d/icfjxN6) |
+| | | | | _Where Do School Funds Go?_ | Marguerite Roza | 🎓 | [Amazon](http://a.co/d/6ibqATi) |
+| | | | | _Liberating Learning: Technology, Politics, and the Future of American Education_ | Terry M. Moe and John E. Chubb | 🎓 | [Amazon](http://a.co/d/04ao489) |
+| | | | | _Work Hard. Be Nice: How Two Inspired Teachers Created the Most Promising Schools in America_ | Jay Mathews | 🎓 | [Amazon](http://a.co/d/d8wrC0y) |
+| | | | | _Value-Added Measures in Education: What Every Educator Needs to Know_ | Douglas N. Harris | 🎓 | [Amazon](http://a.co/d/gTizEeW) |
+| | | | | _The Gene: An Intimate History_ | Siddhartha Mukherjee | ⚗️ | [Amazon](http://a.co/d/9ExMecP) |
+| | | | | _For the Love of Physics: From the End of the Rainbow to the Edge of Time, a Journey through the Wonders of Physics_ | Walter Lewin | ⚗️ | [Amazon](http://a.co/d/57qbmpE) |
+| | | | | _The Feynman Lectures on Physics: Volume 1, Quantum Mechanics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/7LMOUXT) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 2, Advanced Quantum Mechanics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/8m5njHc) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 3, From Crystal Structure to Magnetism_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/9VDbnEy) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 4, Electrical and Magnetic Behavior_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/2mdoDx5) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 5, Energy and Motion_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/7uk1jUX) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 6, Kinetics and Heat_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/bwJJpY4) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 7, Feynman on Mechanics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/gwZ8iCT) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 8, Feynman on Light_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/fiezYas) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 9, Basic Concepts in Classical Physics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/8wWQs7v) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 10, Basic Concepts in Quantum Physics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/8Uex25V) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 11, Feynman on Science and Vision_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/0KKnKTn) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 12, Feynman on Sound_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/42SOmkF) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 13, Feynman on Fields_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/g5tnxgA) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 14, Feynman on Electricity and Magnetism, Part 1_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/iqkRxCo) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 15, Feynman on Electricity and Magnetism, Part 2_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/9f23evB) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 16, Feynman on Electromagnetism_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/9gBhS6S) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 17, Feynman on Electrodynamics_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/cD5Zcmm) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 18, Feynman on Flow_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/gUelSET) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 19, Masers and Light_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/hew1Aye) [Caltech](http://www.feynmanlectures.caltech.edu/) |
+| | | | | _The Feynman Lectures on Physics: Volume 20, The Very Best Lectures_ | Richard P. Feynman | ⚗️ | [Amazon](http://a.co/d/a5u9vg5) [Caltech](http://www.feynmanlectures.caltech.edu/) |
 | | | | | _The New Science of Strong Materials_ | J.E. Gordon | ⚗️ | [Amazon](http://a.co/d/) |
 | | | | | _The Hair of the Dog and Other Scientific Surprises_ | Karl Sabbagh | ⚗️ | [Amazon](http://a.co/d/) |
 | | | | | _13 Things that Don’t Make Sense: The Most Baffling Scientific Mysteries of our Time_ | Michael Brooks | ⚗️ | [Amazon](http://a.co/d/) |
