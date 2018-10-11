@@ -41,8 +41,8 @@ Book recommendations, lists, reports, etc.
 | 🗸 | | 🗸 | | _Homo Deus: A Brief History of Tomorrow_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/04glhsl) |
 | 🗸 | | 🗸 | | _Sapiens: A Brief History of Humankind_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/86lKULG) |
 | | | | | _The Vital Question: Energy, Evolution, and the Origins of Complex Life_ | Nick Lane | 🏙️ | [Amazon](http://a.co/d/ayQnzrL) |
-| | | | | _Enlightenment Now: The Case for Reason_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fCtpZk2) |
-| | | | | _The Better Angels of Our Nature_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fJ7XwJA) |
+| 🗸 | | | | _Enlightenment Now: The Case for Reason_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fCtpZk2) |
+| 🗸 | | | | _The Better Angels of Our Nature_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fJ7XwJA) |
 | | | | | _The Sixth Extinction: An Unnatural History_ | Elizabeth Kolbert | 🏙️ | [Amazon](http://a.co/d/gkDU9tU) |
 | | | | | _The World Until Yesterday: What Can We Learn from Traditional Societies?_ | Jared Diamond | 🏙️ | [Amazon](http://a.co/d/efVk8sT) |
 | | | | | _Collapse: How Societies Choose to Fail or Succeed_ | Jared Diamond | 🏙️ | [Amazon](http://a.co/d/4lBcJRY) |
@@ -82,7 +82,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
 | | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
 | | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
-| | | | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/bYQcqT5) |
+| 🗸 | | 🗸 | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/bYQcqT5) |
 | | | | | _Should We Eat Meat?_ | Vaclav Smil | | [Amazon](http://a.co/d/7VR5XwA) |
 | | | | | _Making the Modern World: Materials and Dematerialization_ | Vaclav Smil | | [Amazon](http://a.co/d/60zTMQv) |
 | | | | | _Harvesting the Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/cv5weE9) |
@@ -239,6 +239,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Catcher in the Rye_ | J. D. Salinger | | |
 | | | | | _A Separate Peace_ | John Knowles | | |
 | | | | | _Lincoln in the Bardo_ | George Saunders | | |
+| 🗸 | | 🗸 | | _The Alchemist_ | Paulo Coelho | | |
 
 # Sources
 
