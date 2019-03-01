@@ -242,7 +242,9 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
 
 ## Template
+
 | 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main Topics | 🛒 |
+| - | - | - | - | - | - | - | - |
 | | | | | _Title_ | Author | | |
 
 # Sources
