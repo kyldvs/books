@@ -257,6 +257,18 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _Cold Days: The Dresden Files, Book 14_ | Jim Butcher | | |
 | ✅ | | ✅ | | _Shadowed Souls: The Dresden Files, Book 14.5_ | Jim Butcher | | |
 | ✅ | | ✅ | | _Skin Game: The Dresden Files, Book 15_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Furies of Calderon: Codex Alera, Book 1_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Academ's Fury: Codex Alera, Book 2_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Cursor's Fury: Codex Alera, Book 3_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Captain's Fury: Codex Alera, Book 4_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Princep's Fury: Codex Alera, Book 5_ | Jim Butcher | | |
+| ✅ | | ✅ | | _First Lord's Fury: Codex Alera, Book 6_ | Jim Butcher | | |
+| ✅ | | ✅ | | _The Aeronaut's Windlass: The Cinder Spires, Book 1_ | Jim Butcher | | |
+| ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
+| ✅ | | ✅ | | _We Are Legion (We Are Bob): Bobiverse, Book 1_ | Dennis E. Taylor | | |
+| ✅ | | ✅ | | _For We Are Many: Bobiverse, Book 2_ | Dennis E. Taylor | | |
+| ✅ | | ✅ | | _All These Worlds: Bobiverse, Book 3_ | Dennis E. Taylor | | |
+| ✅ | | ✅ | | _: The Wheel of Time, Book 1_ | Robert Jordan | | |
 
 ## Template
 
