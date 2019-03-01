@@ -38,17 +38,17 @@ Book recommendations, lists, reports, etc.
 | | | | | _Deng Xiaoping and the Transformation of China_ | Ezra Vogel | 🏛️🙋 | [Amazon](http://a.co/d/01qHXzI) |
 | | | | | _A Nation of Wusses: How America’s Leaders Lost the Guts to Make Us Great_ | Ed Rendell | 🏛️ | [Amazon]( http://a.co/d/iKsa3L1) |
 | | | | | _Titan II: A History of a Cold War Missile Program_ | David K. Stumpf | 🏛️ | [Amazon](http://a.co/d/7RXxEhF) |
-| ✔️ | | ✔️ | | _Homo Deus: A Brief History of Tomorrow_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/04glhsl) |
-| ✔️ | | ✔️ | | _Sapiens: A Brief History of Humankind_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/86lKULG) |
+| ✅ | | ✅ | | _Homo Deus: A Brief History of Tomorrow_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/04glhsl) |
+| ✅ | | ✅ | | _Sapiens: A Brief History of Humankind_ | Yuval Noah Harari | 🏙️ | [Amazon](http://a.co/d/86lKULG) |
 | | | | | _The Vital Question: Energy, Evolution, and the Origins of Complex Life_ | Nick Lane | 🏙️ | [Amazon](http://a.co/d/ayQnzrL) |
-| ✔️ | | | | _Enlightenment Now: The Case for Reason_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fCtpZk2) |
-| ✔️ | | ✔️ | | _The Better Angels of Our Nature_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fJ7XwJA) |
+| ✅ | | | | _Enlightenment Now: The Case for Reason_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fCtpZk2) |
+| ✅ | | ✅ | | _The Better Angels of Our Nature_ | Steven Pinker | 🏙️ | [Amazon](http://a.co/d/fJ7XwJA) |
 | | | | | _The Sixth Extinction: An Unnatural History_ | Elizabeth Kolbert | 🏙️ | [Amazon](http://a.co/d/gkDU9tU) |
 | | | | | _The World Until Yesterday: What Can We Learn from Traditional Societies?_ | Jared Diamond | 🏙️ | [Amazon](http://a.co/d/efVk8sT) |
 | | | | | _Collapse: How Societies Choose to Fail or Succeed_ | Jared Diamond | 🏙️ | [Amazon](http://a.co/d/4lBcJRY) |
 | | | | | _Guns, Germs, and Steel: The Fates of Human Societies_ | Jared Diamond | 🏙️ | [Amazon](http://a.co/d/hwggZH4) |
 | | | | | _Abundance: The Future Is Better Than You Think_ | Peter Diamandis and Steven Kotler | 🏙️ | [Amazon](http://a.co/d/3K5ElY2) |
-| | ✔️ | | | _Big History: From the Big Bang to the Present_ | Cynthia Brown | 🏙️ | [Amazon](http://a.co/d/dRmyOMU) |
+| | ✅ | | | _Big History: From the Big Bang to the Present_ | Cynthia Brown | 🏙️ | [Amazon](http://a.co/d/dRmyOMU) |
 | | | | | _Origin Story: A Big History of Everything_ | David Christian | 🏙️ | [Amazon](http://a.co/d/cCfHDGn) |
 | | | | | _Limits to Growth: The 30-Year Update_ | Donella Meadows, Jorgen Randers, and Dennis Meadows | 🏙️ | [Amazon](http://a.co/d/4uvQ2rb) |
 | | | | | _The Grid: The Fraying Wires Between Americans and our Energy Future_ | Gretchen Bakke | 💡 | [Amazon](http://a.co/d/3ePdRqG) |
@@ -57,10 +57,10 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Grid: A Journey Through the Heart of our Electrified World_ | Phillip F. Schewe | 💡 | [Amazon](http://a.co/d/fQVTBEb) |
 | | | | | _The Path Between the Seas: The Creation of the Panama Canal, 1870-1914_ | David McCullough | 💡 | [Amazon](http://a.co/d/h77Ta7e) |
 | | | | | _The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger_ | Marc Levinson | 💡 | [Amazon](http://a.co/d/3lGeTN9) |
-| ✔️ | ✔️ | ✔️ | | _How Not to Be Wrong: The Power of Mathematical Thinking_ | Jordan Ellenberg | ➕ | [Amazon](http://a.co/d/anolyV7) |
+| ✅ | ✅ | ✅ | | _How Not to Be Wrong: The Power of Mathematical Thinking_ | Jordan Ellenberg | ➕ | [Amazon](http://a.co/d/anolyV7) |
 | | | | | _The Magic of Reality: How We Know What’s really True_ | Richard Dawkins | ➕ | [Amazon](http://a.co/d/2fkYqUG) |
 | | | | | _What If? Serious Scientific Answers to Absurd Hypothetical Questions_ | Randall Munroe | ➕ | [Amazon](http://a.co/d/7ifmA7T) |
-| ✔️ | ✔️ | | | _How to Lie With Statistics_ | Darrell Huff | ➕ | [Amazon](http://a.co/d/2V7jyO2) |
+| ✅ | ✅ | | | _How to Lie With Statistics_ | Darrell Huff | ➕ | [Amazon](http://a.co/d/2V7jyO2) |
 | | | | | _Thing Explainer: Complicated Stuff in Simple Words_ | Randall Munroe | ➕ | [Amazon](http://a.co/d/7Ksfmoe) |
 | | | | | _Factfulness: Ten Reasons We’re Wrong About the World—and Why Things Are Better than You Think_ | Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling | ➕ | [Amazon](http://a.co/d/a7xqFhM) |
 | | | | | _The Signal and the Noise: Why So Many Predictions Fail—but Some Don’t_ | Nate Silver | ➕ | [Amazon](http://a.co/d/4G80xGA) |
@@ -82,7 +82,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _When Breath Becomes Air_ | Paul Kalanithi | 🙋 | [Amazon](http://a.co/d/g5l9UnM) |
 | | | | | _Everything Happens for a Reason and other Lies I’ve Loved_ | Kate Bowler | 🙋 | [Amazon](http://a.co/d/cuzBf4j) |
 | | | | | _The Cost of Hope_ | Amanda Bennett | 🙋 | [Amazon](http://a.co/d/j8rBh4P) |
-| ✔️ | | ✔️ | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/bYQcqT5) |
+| ✅ | | ✅ | | _Energy and Civilization: A History_ | Vaclav Smil | ⚡ | [Amazon](http://a.co/d/bYQcqT5) |
 | | | | | _Should We Eat Meat?_ | Vaclav Smil | | [Amazon](http://a.co/d/7VR5XwA) |
 | | | | | _Making the Modern World: Materials and Dematerialization_ | Vaclav Smil | | [Amazon](http://a.co/d/60zTMQv) |
 | | | | | _Harvesting the Biosphere_ | Vaclav Smil | | [Amazon](http://a.co/d/cv5weE9) |
@@ -204,7 +204,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _Polio: An American Story_ | David Oshinsky | 💉 | [Amazon](http://a.co/d/7ZTb0RU) |
 | | | | | _Epic Measures: One Doctor. Seven Billion Patients_ | Jeremy Smith | 💉 | [Amazon](http://a.co/d/f1ggn3w) |
 | | | | | _The Myth of the Strong Leader_ | Archie Brown | 👑 | [Amazon](http://a.co/d/57sdQKF) |
-| ✔️ | | ✔️ | | _Mindset: The New Psychology of Success_ | Carol Dweck | 👑 | [Amazon](http://a.co/d/jkISxvy) |
+| ✅ | | ✅ | | _Mindset: The New Psychology of Success_ | Carol Dweck | 👑 | [Amazon](http://a.co/d/jkISxvy) |
 | | | | | _How Children Succeed: Grit, Curiosity, and the Hidden Power of Character_ | Paul Tough | 👑 | [Amazon](http://a.co/d/btCohQB) |
 | | | | | _The Art of Being Unreasonable: Lessons in Unconventional Thinking_ | Eli Broad | 👑 | [Amazon](http://a.co/d/hlxU224) |
 | | | | | _Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World With OKRs_ | John Doerr | 👑 | [Amazon](http://a.co/d/8wGxUil) |
@@ -219,7 +219,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _String Theory_ | David Foster Wallace | 🎾 | [Amazon](http://a.co/d/5l7zovs) |
 | | | | | _A Champion’s Mind_ | Pete Sampras | 🎾 | [Amazon](http://a.co/d/cw3G07a) |
 | | | | | _Open_ | Andre Agassi | 🎾🙋 | [Amazon](http://a.co/d/ffTIkZ0) |
-| ✔️ | | ✔️ | | _Moonwalking with Einstein: The Art and Science of Remembering Everything_ | Joshua Foer | | [Amazon](http://a.co/d/3bYs9j2) |
+| ✅ | | ✅ | | _Moonwalking with Einstein: The Art and Science of Remembering Everything_ | Joshua Foer | | [Amazon](http://a.co/d/3bYs9j2) |
 | | | | | _The City that Became Safe: New York’s Lessons for Urban Crime and Its Control_ | Franklin Zimring | | [Amazon](http://a.co/d/cal5Iso) |
 | | | | | _Frank Stewart’s Bridge Club_ | Frank Stewart | | [Amazon](http://a.co/d/g0l0rYT) |
 
@@ -239,7 +239,7 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Catcher in the Rye_ | J. D. Salinger | | |
 | | | | | _A Separate Peace_ | John Knowles | | |
 | | | | | _Lincoln in the Bardo_ | George Saunders | | |
-| ✔️ | | ✔️ | | _The Alchemist_ | Paulo Coelho | | |
+| ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
 
 # Sources
 
