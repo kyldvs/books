@@ -234,12 +234,16 @@ Book recommendations, lists, reports, etc.
 | | | | | _The Rosie Project_ | Graeme Simsion | | |
 | | | | | _Patriot and Assassin_ | Robert Cook | | |
 | | | | | _Turtles All the Way Down_ | John Green | | |
-| | | | | _The Hunger Games_ | Suzanne Collins | | |
+| | | ✅ | | _The Hunger Games_ | Suzanne Collins | | |
 | | | | | _The Cat’s Table_ | Michael Ondaatje | | |
 | | | | | _The Catcher in the Rye_ | J. D. Salinger | | |
 | | | | | _A Separate Peace_ | John Knowles | | |
 | | | | | _Lincoln in the Bardo_ | George Saunders | | |
 | ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
+
+## Template
+| 🎧 | 📱 | ✔️ | ✏️ | Title | Author | Main Topics | 🛒 |
+| | | | | _Title_ | Author | | |
 
 # Sources
 
