@@ -268,7 +268,21 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _We Are Legion (We Are Bob): Bobiverse, Book 1_ | Dennis E. Taylor | | |
 | ✅ | | ✅ | | _For We Are Many: Bobiverse, Book 2_ | Dennis E. Taylor | | |
 | ✅ | | ✅ | | _All These Worlds: Bobiverse, Book 3_ | Dennis E. Taylor | | |
-| ✅ | | ✅ | | _: The Wheel of Time, Book 1_ | Robert Jordan | | |
+| ✅ | | ✅ | | _The Final Empire: Mistborn, Book 1_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Well of Ascension: Mistborn, Book 2_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Hero of Ages: Mistborn, Book 3_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Alloy of Law: Mistborn_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Shadows of Self: Mistborn_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Bands of Mourning: Mistborn_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Arcanum Unbounded: The Cosmere Collection_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Elantris_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Warbreaker_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Way of Kings: Stormlight Archive, Book 1_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Words of Radiance: Stormlight Archive, Book 2_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _Oathbringer: Stormlight Archive, Book 3_ | Brandon Sanderson | | |
+| ✅ | | ✅ | | _The Name of the Wind: Kingkiller Chronicle, Book 1_ | Patrick Rothfuss | | |
+| ✅ | | ✅ | | _The Wise Man's Fear: Kingkiller Chronicle, Book 2_ | Patrick Rothfuss | | |
+| ✅ | | ✅ | | _The Eye of the World: The Wheel of Time, Book 1_ | Robert Jordan | | |
 
 ## Template
 
