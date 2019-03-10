@@ -373,9 +373,9 @@ These are rough rankings of the series I've read:
 
 Getting Started:
 
-1. Dresden Files
-2. Mistborn 1-3
-3. Continue with other Cosmere series / Kingkiller Chronicles / King's Dark Tidings
+1. Dresden Files (A nice, fast-paced, action-packed intro to fantasy)
+2. Mistborn 1-3 (This series is more firmly in the "High Fantasy" genre, very interesting and well written)
+3. Continue with other Cosmere series / Kingkiller Chronicles / King's Dark Tidings (any or all of these are good options)
 4. The Wheel of Time (This series is very good, but is long and can be hard to get through. Not recommended to start with.)
 
 Unranked:
