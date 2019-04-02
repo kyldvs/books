@@ -364,12 +364,12 @@ These are rough rankings of the series I've read:
 2. Kingkiller Chronicles (Fantasy, great storytelling) [incomplete]
 3. Mistborn 1-3 (Cosmere, Fantasy, explores unique magic systems) [complete]
 4. King's Dark Tidings (Fantasy, main charachter is interesting) [incomplete]
-5. Stormlight Archive (Cosmere, Fantasy) [incomplete]
-6. Three Body (Sci-fi, very thought provoking, nothing too outlandish/crazy with respect to technology) [complete]
-7. Arcane Ascension (Fantasy, This one was really good, but the series is young!) [incomplete]
-8. Codex Alera (Fantasy, Lots of cool problem solving in this one) [complete]
-9. Dresden Files (Modern/Urban Fantasy, Fast-paced easy to read books. Lots of action.) [incomplete]
-10. Spellmonger (Fantasy, First few were slow in parts, later books are more interesting)
+5. Spellmonger (Fantasy, planned to be very long, first few are slow, interesting and complex magic system) [incomplete]
+6. Stormlight Archive (Cosmere, Fantasy) [incomplete]
+7. Three Body (Sci-fi, very thought provoking, nothing too outlandish/crazy with respect to technology) [complete]
+8. Arcane Ascension (Fantasy, This one was really good, but the series is young!) [incomplete]
+9. Codex Alera (Fantasy, Lots of cool problem solving in this one) [complete]
+10. Dresden Files (Modern/Urban Fantasy, Fast-paced easy to read books. Lots of action.) [incomplete]
 11. A Pattern of Shadow and Light (Fantasy) [incomplete]
 12. Bobiverse (Sci-fi, cool writing style and explores interesting concepts) [complete]
 
