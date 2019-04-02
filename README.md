@@ -346,11 +346,12 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _Magelord: Spellmonger, Book 3_ | Terry Mancour | | |
 | ✅ | | ✅ | | _Knights Magi: Spellmonger, Book 4_ | Terry Mancour | | |
 | ✅ | | ✅ | | _High Mage: Spellmonger, Book 5_ | Terry Mancour | | |
-| ✅ | | | | _Journeymage: Spellmonger, Book 6_ | Terry Mancour | | |
-| | | | | _Enchanter: Spellmonger, Book 7_ | Terry Mancour | | |
-| | | | | _Court Wizard: Spellmonger, Book 8_ | Terry Mancour | | |
-| | | | | _Shadowmage: Spellmonger, Book 9_ | Terry Mancour | | |
-| | | | | _Necromancer: Spellmonger, Book 10_ | Terry Mancour | | |
+| ✅ | | ✅ | | _Journeymage: Spellmonger, Book 6_ | Terry Mancour | | |
+| ✅ | | ✅ | | _Enchanter: Spellmonger, Book 7_ | Terry Mancour | | |
+| ✅ | | ✅ | | _Court Wizard: Spellmonger, Book 8_ | Terry Mancour | | |
+| | ✅ | ✅ | | _Shadowmage: Spellmonger, Book 9_ | Terry Mancour | | |
+| | ✅ | ✅ | | _Necromancer: Spellmonger, Book 10_ | Terry Mancour | | |
+| | | | | _Thaumaterge: Spellmonger, Book 11_ | Terry Mancour | | |
 
 ### Series Rankings
 
