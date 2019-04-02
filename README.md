@@ -352,6 +352,7 @@ Book recommendations, lists, reports, etc.
 | | ✅ | ✅ | | _Shadowmage: Spellmonger, Book 9_ | Terry Mancour | | |
 | | ✅ | ✅ | | _Necromancer: Spellmonger, Book 10_ | Terry Mancour | | |
 | | | | | _Thaumaterge: Spellmonger, Book 11_ | Terry Mancour | | |
+| | | | | _...: Spellmonger, Book 12_ | Terry Mancour | | |
 
 ### Series Rankings
 
