@@ -340,7 +340,8 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _The Dagger of Adendigaeth: A Pattern of Shadow and Light, Book 2_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _Paths of Alir: A Pattern of Shadow and Light, Book 3_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _Kingdom Blades: A Pattern of Shadow and Light, Book 4_ | Melissa McPhail | | |
-| | | | | _...: A Pattern of Shadow and Light, Book 5_ | Melissa McPhail | | |
+| | ✅ | ✅ | | _The Sixth Strand: A Pattern of Shadow and Light, Book 5_ | Melissa McPhail | | |
+| | | | | _...: A Pattern of Shadow and Light, Book 6_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _Spellmonger: Spellmonger, Book 1_ | Terry Mancour | | |
 | ✅ | | ✅ | | _Warmage: Spellmonger, Book 2_ | Terry Mancour | | |
 | ✅ | | ✅ | | _Magelord: Spellmonger, Book 3_ | Terry Mancour | | |
@@ -351,8 +352,16 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _Court Wizard: Spellmonger, Book 8_ | Terry Mancour | | |
 | | ✅ | ✅ | | _Shadowmage: Spellmonger, Book 9_ | Terry Mancour | | |
 | | ✅ | ✅ | | _Necromancer: Spellmonger, Book 10_ | Terry Mancour | | |
-| | | | | _Thaumaterge: Spellmonger, Book 11_ | Terry Mancour | | |
+| | ✅ | ✅ | | _Thaumaterge: Spellmonger, Book 11_ | Terry Mancour | | |
 | | | | | _...: Spellmonger, Book 12_ | Terry Mancour | | |
+| | ✅ | ✅ | | _Awaken Online: Catharsis, Book 1_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Precipce, Book 2_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Retribution, Book 2.5_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Evolution, Book 3_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Apathy, Book 3.5_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Dominion, Book 4_ | Travis Bagwell | | |
+| | ✅ | ✅ | | _Awaken Online: Unity, Book 4.5_ | Travis Bagwell | | |
+| | | | | _Awaken Online: ...._ | Travis Bagwell | | |
 
 ### Series Rankings
 
