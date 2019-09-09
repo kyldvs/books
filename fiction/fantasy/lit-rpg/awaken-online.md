@@ -1,6 +1,6 @@
 # Awaken Online
 
-- Author: Travis Bagwell
+- Author: [Travis Bagwell](../../../authors.md#travis-bagwell)
 - Writing status: In progress
 
 # Overview
