@@ -1,6 +1,6 @@
 # The Divine Dungeon
 
-- Author: Dakota Krout
+- Author: [Dakota Krout](../../../authors.md#dakota-krout)
 - Writing status: Complete (?). There will be other series set in the same universe.
 
 # Overview
