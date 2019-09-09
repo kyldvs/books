@@ -9,6 +9,12 @@ This is a list of authors and relevant links.
   - [The Divine Dungeon](./fiction/fantasy/lit-rpg/divine-dungeon.md)
   - [The Completionist Chronicles](./fiction/fantasy/lit-rpg/completionist-chronicles.md)
 
+## Dennis E. Taylor
+
+- http://dennisetaylor.org/
+- Series
+  - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
+
 ## Jim Butcher
 
 - http://www.jim-butcher.com/
