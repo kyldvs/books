@@ -240,29 +240,6 @@ Book recommendations, lists, reports, etc.
 | | | | | _Lincoln in the Bardo_ | George Saunders | | |
 | ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
 | ✅ | | ✅ | | _Ready Player One_ | Ernest Cline | | |
-| ✅ | | ✅ | | _Storm Front: The Dresden Files, Book 1_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Fool Moon: The Dresden Files, Book 2_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Grave Peril: The Dresden Files, Book 3_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Summer Knight: The Dresden Files, Book 4_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Death Masks: The Dresden Files, Book 5_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Blood Rites: The Dresden Files, Book 6_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Dead Beat: The Dresden Files, Book 7_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Proven Guilty: The Dresden Files, Book 8_ | Jim Butcher | | |
-| ✅ | | ✅ | | _White Knight: The Dresden Files, Book 9_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Small Favor: The Dresden Files, Book 10_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Turn Coat: The Dresden Files, Book 11_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Changes: The Dresden Files, Book 12_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Ghost Stories: The Dresden Files, Book 13_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Cold Days: The Dresden Files, Book 14_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Shadowed Souls: The Dresden Files, Book 14.5_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Skin Game: The Dresden Files, Book 15_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Furies of Calderon: Codex Alera, Book 1_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Academ's Fury: Codex Alera, Book 2_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Cursor's Fury: Codex Alera, Book 3_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Captain's Fury: Codex Alera, Book 4_ | Jim Butcher | | |
-| ✅ | | ✅ | | _Princep's Fury: Codex Alera, Book 5_ | Jim Butcher | | |
-| ✅ | | ✅ | | _First Lord's Fury: Codex Alera, Book 6_ | Jim Butcher | | |
-| ✅ | | ✅ | | _The Aeronaut's Windlass: The Cinder Spires, Book 1_ | Jim Butcher | | |
 | ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
 | ✅ | | ✅ | | _We Are Legion (We Are Bob): Bobiverse, Book 1_ | Dennis E. Taylor | | |
 | ✅ | | ✅ | | _For We Are Many: Bobiverse, Book 2_ | Dennis E. Taylor | | |
