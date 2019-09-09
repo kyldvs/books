@@ -1,6 +1,6 @@
 # The Dresden Files
 
-- Author: Jim Butcher
+- Author: [Jim Butcher](../../authors.md#jim-butcher)
 - Writing status: In progress
 
 # Overview
