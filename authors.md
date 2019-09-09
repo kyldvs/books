@@ -2,30 +2,51 @@
 
 This is a list of authors and relevant links.
 
+## Brandon Sanderson
+
+- https://brandonsanderson.com/
+- Books / Series
+  - Cosmere
+    - [Mistborn](./fiction/fantasy/mistborn.md)
+    - [Arcanum Unbounded](./fiction/fantasy/arcanum-unbounded.md)
+    - [Elantris](./fiction/fantasy/elantris.md)
+    - [Warbreaker](./fiction/fantasy/warbreaker.md)
+    - [Stormlight Archive](./fiction/fantasy/stormlight-archive.md)
+  - Non-cosmere
+    - [The Reckoners](./fiction/fantasy/reckoners.md)
+    - [Legion](./fiction/fantasy/legion.md)
+    - [The Wheel of Time (12-14)](./fiction/fantasy/wheel-of-time.md)
+
 ## Dakota Krout
 
 - https://www.dakotakrout.com/
-- Series
+- Books / Series
   - [The Divine Dungeon](./fiction/fantasy/lit-rpg/divine-dungeon.md)
   - [The Completionist Chronicles](./fiction/fantasy/lit-rpg/completionist-chronicles.md)
 
 ## Dennis E. Taylor
 
 - http://dennisetaylor.org/
-- Series
+- Books / Series
   - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
 
 ## Jim Butcher
 
 - http://www.jim-butcher.com/
-- Series
+- Books / Series
   - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
 
+## Robert Jordan
+
+- https://en.wikipedia.org/wiki/Robert_Jordan
+- Books / Series
+  - [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
+  
 ## Travis Bagwell
 
 - https://travisbagwell.com/
-- Series
+- Books / Series
   - [Awaken Online](./fiction/fantasy/lit-rpg/awaken-online.md)
 
