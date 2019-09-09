@@ -1,6 +1,6 @@
 # The Bobiverse Trilogy
 
-- Author: (Dennis E. Taylor)[../../authors.md#dennis-e-taylor]
+- Author: [Dennis E. Taylor](../../authors.md#dennis-e-taylor)
 - Writing status: Complete
 
 # Overview
