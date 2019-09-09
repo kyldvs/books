@@ -1,6 +1,6 @@
 # The Completionist Chronicles
 
-- Author: Dakota Krout
+- Author: [Dakota Krout](../../../authors.md#dakota-krout)
 - Writing status: In progress
 
 # Overview
