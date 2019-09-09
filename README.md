@@ -241,9 +241,6 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
 | ✅ | | ✅ | | _Ready Player One_ | Ernest Cline | | |
 | ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
-| ✅ | | ✅ | | _We Are Legion (We Are Bob): Bobiverse, Book 1_ | Dennis E. Taylor | | |
-| ✅ | | ✅ | | _For We Are Many: Bobiverse, Book 2_ | Dennis E. Taylor | | |
-| ✅ | | ✅ | | _All These Worlds: Bobiverse, Book 3_ | Dennis E. Taylor | | |
 | ✅ | | ✅ | | _The Final Empire: Mistborn, Book 1_ | Brandon Sanderson | | |
 | ✅ | | ✅ | | _The Well of Ascension: Mistborn, Book 2_ | Brandon Sanderson | | |
 | ✅ | | ✅ | | _The Hero of Ages: Mistborn, Book 3_ | Brandon Sanderson | | |
