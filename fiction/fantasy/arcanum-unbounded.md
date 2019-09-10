@@ -3,9 +3,9 @@
 - Author: [Brandon Sanderson](../../authors.md#brandon-sanderson)
 - Writing status: Done
 
-This is a collection of short stories set in the Cosmere universe.
-
 # Overview
+
+This is a collection of short stories set in the Cosmere universe.
 
 | 🎧 | 📱 | ✔️ | Title | Book | Published | ✏️ |
 | - | - | - | - | - | - | - |
