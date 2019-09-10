@@ -241,39 +241,8 @@ Book recommendations, lists, reports, etc.
 | ✅ | | ✅ | | _The Alchemist_ | Paulo Coelho | | |
 | ✅ | | ✅ | | _Ready Player One_ | Ernest Cline | | |
 | ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
-| ✅ | | ✅ | | _The Final Empire: Mistborn, Book 1_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _The Well of Ascension: Mistborn, Book 2_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _The Hero of Ages: Mistborn, Book 3_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _The Alloy of Law: Mistborn_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Shadows of Self: Mistborn_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _The Bands of Mourning: Mistborn_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Arcanum Unbounded: The Cosmere Collection_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Elantris_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Warbreaker_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _The Way of Kings: Stormlight Archive, Book 1_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Words of Radiance: Stormlight Archive, Book 2_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Oathbringer: Stormlight Archive, Book 3_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Steelheart: The Reckoners, Book 1_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Firefight: The Reckoners, Book 2_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Calamity: The Reckoners, Book 3_ | Brandon Sanderson | | |
-| ✅ | | ✅ | | _Legion: The Many Lives of Stephen Leeds_ | Brandon Sanderson | | |
 | ✅ | | ✅ | | _The Name of the Wind: Kingkiller Chronicle, Book 1_ | Patrick Rothfuss | | |
 | ✅ | | ✅ | | _The Wise Man's Fear: Kingkiller Chronicle, Book 2_ | Patrick Rothfuss | | |
-| ✅ | | ✅ | | _The Eye of the World: The Wheel of Time, Book 1_ | Robert Jordan | | |
-| ✅ | | ✅ | | _The Great Hunt: The Wheel of Time, Book 2_ | Robert Jordan | | |
-| ✅ | | ✅ | | _The Dragon Reborn: The Wheel of Time, Book 3_ | Robert Jordan | | |
-| ✅ | | ✅ | | _The Shadow Rising: The Wheel of Time, Book 4_ | Robert Jordan | | |
-| ✅ | | ✅ | | _The Fires of Heaven: The Wheel of Time, Book 5_ | Robert Jordan | | |
-| ✅ | | ✅ | | _Lord of Chaos: The Wheel of Time, Book 6_ | Robert Jordan | | |
-| ✅ | | ✅ | | _A Crown of Swords: The Wheel of Time, Book 7_ | Robert Jordan | | |
-| ✅ | | ✅ | | _Path of Daggers: The Wheel of Time, Book 8_ | Robert Jordan | | |
-| ✅ | | ✅ | | _Winter's Heart: The Wheel of Time, Book 9_ | Robert Jordan | | |
-| ✅ | | ✅ | | _Crossroads of Twilight: The Wheel of Time, Book 10_ | Robert Jordan | | |
-| ✅ | | ✅ | | _Knife of Dreams: The Wheel of Time, Book 11_ | Robert Jordan | | |
-| ✅ | | ✅ | | _The Gathering Storm: The Wheel of Time, Book 12_ | Robert Jordan, Brandon Sanderson | | |
-| ✅ | | ✅ | | _Towers of Midnight: The Wheel of Time, Book 13_ | Robert Jordan, Brandon Sanderson | | |
-| ✅ | | ✅ | | _A Memory of Light: The Wheel of Time, Book 14_ | Robert Jordan, Brandon Sanderson | | |
-| ✅ | | ✅ | | _New Spring: The Wheel of Time, Prequel_ | Robert Jordan | | |
 | ✅ | | ✅ | | _Leviathan Wakes: The Expanse, Book 1_ | James S. A. Corey | | |
 | ✅ | | ✅ | | _Caliban's War: The Expanse, Book 2_ | James S. A. Corey | | |
 | ✅ | | ✅ | | _Abaddon's Gate: The Expanse, Book 3_ | James S. A. Corey | | |
