@@ -52,7 +52,7 @@ This is a list of authors and relevant links.
 
 ## Patrick Rothfuss
 
-- https://www.patrickrothfuss.com/content/index.asp
+- https://www.patrickrothfuss.com/
 - Books / Series
   - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
 
