@@ -17,6 +17,12 @@ This is a list of authors and relevant links.
     - [Legion](./fiction/fantasy/legion.md)
     - [The Wheel of Time (12-14)](./fiction/fantasy/wheel-of-time.md)
 
+## Cixin Liu
+
+- https://en.wikipedia.org/wiki/Liu_Cixin
+- Books / Series
+  - [Three Body](./fiction/sci-fi/three-body.md)
+
 ## Dakota Krout
 
 - https://www.dakotakrout.com/
@@ -30,6 +36,12 @@ This is a list of authors and relevant links.
 - Books / Series
   - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
 
+## James S. A. Corey
+
+- https://www.jamessacorey.com/
+- Books / Series
+  - [The Expanse](./fiction/sci-fi/expanse.md)
+
 ## Jim Butcher
 
 - http://www.jim-butcher.com/
@@ -37,6 +49,12 @@ This is a list of authors and relevant links.
   - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
+
+## Patrick Rothfuss
+
+- https://www.patrickrothfuss.com/content/index.asp
+- Books / Series
+  - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
 
 ## Robert Jordan
 
@@ -49,4 +67,13 @@ This is a list of authors and relevant links.
 - https://travisbagwell.com/
 - Books / Series
   - [Awaken Online](./fiction/fantasy/lit-rpg/awaken-online.md)
+
+---
+
+## Aleron Kong
+
+- Annoying author/bully. Books are average I guess.
+- https://www.litrpg.com/
+- Books / Series
+  - [Chaos Seeds](./fiction/fantasy/lit-rpg/chaos-seeds.md)
 
