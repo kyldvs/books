@@ -5,7 +5,7 @@
 
 This is a collection of short stories set in the Cosmere universe.
 
-# Overview - Series 1
+# Overview
 
 | 🎧 | 📱 | ✔️ | Title | Book | Published | ✏️ |
 | - | - | - | - | - | - | - |
