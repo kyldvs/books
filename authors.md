@@ -72,7 +72,7 @@ This is a list of authors and relevant links.
 
 ## Aleron Kong
 
-- Annoying author/bully. Books are average I guess.
+- Annoying author/bully in the LitRPG genre. Books are average I guess.
 - https://www.litrpg.com/
 - Books / Series
   - [Chaos Seeds](./fiction/fantasy/lit-rpg/chaos-seeds.md)
