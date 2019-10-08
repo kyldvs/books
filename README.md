@@ -247,7 +247,7 @@ I'm in the process of moving this list into individual files for each series/boo
 | ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
 | ✅ | | ✅ | | _Eleanor Oliphant Is Completely Fine_ | Gail Honeyman | | |
 | ✅ | | ✅ | | _The Cycle of Arawn: The Complete Trilogy_ | Edward W. Robertson | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _The Land: Founding: Chaos Seeds, Book 1_ | Aleron Kong | | |
 | ✅ | | ✅ | | _The Land: Forging: Chaos Seeds, Book 2_ | Aleron Kong | | |
 | ✅ | | ✅ | | _The Land: Alliances: Chaos Seeds, Book 3_ | Aleron Kong | | |
@@ -256,29 +256,29 @@ I'm in the process of moving this list into individual files for each series/boo
 | ✅ | | ✅ | | _The Land: Raiders: Chaos Seeds, Book 6_ | Aleron Kong | | |
 | ✅ | | ✅ | | _The Land: Predators: Chaos Seeds, Book 7_ | Aleron Kong | | |
 | | | | | _...: Chaos Seeds, Book 8_ | Aleron Kong | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _The Fifth Season: The Broken Earth, Book 1_ | N. K. Jemisin | | |
 | ✅ | | ✅ | | _The Obelisk Gate: The Broken Earth, Book 2_ | N. K. Jemisin | | |
 | ✅ | | ✅ | | _The Stone Sky: The Broken Earth, Book 3_ | N. K. Jemisin | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _Sufficiently Advanced Magic: Arcane Ascension, Book 1_ | Andrew Rowe | | |
 | | ✅ | ✅ | | _On the Shoulders of Titans: Arcane Ascension, Book 2_ | Andrew Rowe | | |
 | | | | | _...: Arcane Ascension, Book 3_ | Andrew Rowe | | |
 | | | | | _Six Sacred Swords: Weapons and Wielders, Book 1_ | Andrew Rowe | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _Free the Darkness: King's Dark Tidings, Book 1_ | Kel Kade | | |
 | ✅ | | ✅ | | _Reign of Madness: King's Dark Tidings, Book 2_ | Kel Kade | | |
 | ✅ | | ✅ | | _Legends of Ahn: King's Dark Tidings, Book 3_ | Kel Kade | | |
 | ✅ | | ✅ | | _Kingdoms and Chaos: King's Dark Tidings, Book 4_ | Kel Kade | | |
 | | | | | _...: King's Dark Tidings, Book 5_ | Kel Kade | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _Cephrael's Hand: A Pattern of Shadow and Light, Book 1_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _The Dagger of Adendigaeth: A Pattern of Shadow and Light, Book 2_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _Paths of Alir: A Pattern of Shadow and Light, Book 3_ | Melissa McPhail | | |
 | ✅ | | ✅ | | _Kingdom Blades: A Pattern of Shadow and Light, Book 4_ | Melissa McPhail | | |
 | | ✅ | ✅ | | _The Sixth Strand: A Pattern of Shadow and Light, Book 5_ | Melissa McPhail | | |
 | | | | | _...: A Pattern of Shadow and Light, Book 6_ | Melissa McPhail | | |
-
+| - | - | - | - | - | - | - | - |
 | ✅ | | ✅ | | _Spellmonger: Spellmonger, Book 1_ | Terry Mancour | | |
 | ✅ | | ✅ | | _Warmage: Spellmonger, Book 2_ | Terry Mancour | | |
 | ✅ | | ✅ | | _Magelord: Spellmonger, Book 3_ | Terry Mancour | | |
