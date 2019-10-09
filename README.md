@@ -247,50 +247,6 @@ I'm in the process of moving this list into individual files for each series/boo
 | ✅ | | ✅ | | _Norse Mythology_ | Neil Gaiman | | |
 | ✅ | | ✅ | | _Eleanor Oliphant Is Completely Fine_ | Gail Honeyman | | |
 | ✅ | | ✅ | | _The Cycle of Arawn: The Complete Trilogy_ | Edward W. Robertson | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _The Land: Founding: Chaos Seeds, Book 1_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Forging: Chaos Seeds, Book 2_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Alliances: Chaos Seeds, Book 3_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Catacombs: Chaos Seeds, Book 4_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Swarm: Chaos Seeds, Book 5_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Raiders: Chaos Seeds, Book 6_ | Aleron Kong | | |
-| ✅ | | ✅ | | _The Land: Predators: Chaos Seeds, Book 7_ | Aleron Kong | | |
-| | | | | _...: Chaos Seeds, Book 8_ | Aleron Kong | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _The Fifth Season: The Broken Earth, Book 1_ | N. K. Jemisin | | |
-| ✅ | | ✅ | | _The Obelisk Gate: The Broken Earth, Book 2_ | N. K. Jemisin | | |
-| ✅ | | ✅ | | _The Stone Sky: The Broken Earth, Book 3_ | N. K. Jemisin | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _Sufficiently Advanced Magic: Arcane Ascension, Book 1_ | Andrew Rowe | | |
-| | ✅ | ✅ | | _On the Shoulders of Titans: Arcane Ascension, Book 2_ | Andrew Rowe | | |
-| | | | | _...: Arcane Ascension, Book 3_ | Andrew Rowe | | |
-| | | | | _Six Sacred Swords: Weapons and Wielders, Book 1_ | Andrew Rowe | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _Free the Darkness: King's Dark Tidings, Book 1_ | Kel Kade | | |
-| ✅ | | ✅ | | _Reign of Madness: King's Dark Tidings, Book 2_ | Kel Kade | | |
-| ✅ | | ✅ | | _Legends of Ahn: King's Dark Tidings, Book 3_ | Kel Kade | | |
-| ✅ | | ✅ | | _Kingdoms and Chaos: King's Dark Tidings, Book 4_ | Kel Kade | | |
-| | | | | _...: King's Dark Tidings, Book 5_ | Kel Kade | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _Cephrael's Hand: A Pattern of Shadow and Light, Book 1_ | Melissa McPhail | | |
-| ✅ | | ✅ | | _The Dagger of Adendigaeth: A Pattern of Shadow and Light, Book 2_ | Melissa McPhail | | |
-| ✅ | | ✅ | | _Paths of Alir: A Pattern of Shadow and Light, Book 3_ | Melissa McPhail | | |
-| ✅ | | ✅ | | _Kingdom Blades: A Pattern of Shadow and Light, Book 4_ | Melissa McPhail | | |
-| | ✅ | ✅ | | _The Sixth Strand: A Pattern of Shadow and Light, Book 5_ | Melissa McPhail | | |
-| | | | | _...: A Pattern of Shadow and Light, Book 6_ | Melissa McPhail | | |
-| - | - | - | - | - | - | - | - |
-| ✅ | | ✅ | | _Spellmonger: Spellmonger, Book 1_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Warmage: Spellmonger, Book 2_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Magelord: Spellmonger, Book 3_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Knights Magi: Spellmonger, Book 4_ | Terry Mancour | | |
-| ✅ | | ✅ | | _High Mage: Spellmonger, Book 5_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Journeymage: Spellmonger, Book 6_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Enchanter: Spellmonger, Book 7_ | Terry Mancour | | |
-| ✅ | | ✅ | | _Court Wizard: Spellmonger, Book 8_ | Terry Mancour | | |
-| | ✅ | ✅ | | _Shadowmage: Spellmonger, Book 9_ | Terry Mancour | | |
-| | ✅ | ✅ | | _Necromancer: Spellmonger, Book 10_ | Terry Mancour | | |
-| | ✅ | ✅ | | _Thaumaterge: Spellmonger, Book 11_ | Terry Mancour | | |
-| | | | | _...: Spellmonger, Book 12_ | Terry Mancour | | |
 
 ### Series Rankings
 
@@ -321,7 +277,6 @@ These are rough rankings of the series I've read:
 ### Unranked Series
 
 - The Broken Earth (Fantasy, Good series, but not sure where it fits in yet) [complete]
-- Chaos Seeds (Fantasy, Very average writing, it's a literary-RPG, if you like RPG games/leveling it could be interesting to you) [incomplete]
 - The Cycle of Arawn (Fantasy, Don't remember this one well enough, I believe it was in the good/very-good range) [complete]
 - The Expanse (Sci-fi, have had trouble getting through these. Stuck around book 5, but many people like them) [incomplete]
 - The Reckoners (Modern/Urban Fantasy, Good Brandon Sanderson series, more super-hero than fantasy)
