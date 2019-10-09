@@ -1,5 +1,3 @@
-https://github.com/kyldvs/books/blob/master/authors.md#kel-kade
-
 # King's Dark Tidings
 
 - Author: [Kel Kade](../../authors.md#kel-kade)
