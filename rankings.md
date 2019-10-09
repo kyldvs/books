@@ -1,15 +1,13 @@
 # Rankings
 
-These are rough rankings of the series I've read.
+Different lists and rankings for series I've read.
 
 ## Fantasy - Getting Started
 
 This is a nice ordering of series for someone getting started in the Fantasy genre. Recommendations 2-5 can all be mixed around, they will be similar.
 
 - 1 - [The Dresden Files](./fiction/fantasy/dresden-files.md)
-  - A wizard going around Chicago solving crimes.
-  - Nice, fast-paced, action-packed intro to fantasy.
-  - Lots of short books.
+  - Modern/Urban Fantasy, Fast-paced easy to read books. Lots of action.
 - 2 - [Mistborn (1-3)](./fiction/fantasy/mistborn.md)
   - Very interesting magic system.
   - Stronger fantasy elements than _The Dresden Files_. More of a focus on magic.
@@ -26,18 +24,26 @@ This is a nice ordering of series for someone getting started in the Fantasy gen
 
 ## Fiction - Overall
 
-1. The Wheel of Time (Fantasy, very long and epic series)
-2. Kingkiller Chronicles (Fantasy, great storytelling)
-3. Mistborn 1-3 (Cosmere, Fantasy, explores unique magic systems)
-4. King's Dark Tidings (Fantasy, main charachter is interesting)
-5. Spellmonger (Fantasy, planned to be very long, first few are slow, interesting and complex magic system)
-6. Stormlight Archive (Cosmere, Fantasy)
-7. Three Body (Sci-fi, very thought provoking, nothing too outlandish/crazy with respect to technology)
-8. Arcane Ascension (Fantasy, This one was really good, but the series is young!)
-9. Codex Alera (Fantasy, Lots of cool problem solving in this one)
-10. Dresden Files (Modern/Urban Fantasy, Fast-paced easy to read books. Lots of action.)
-11. A Pattern of Shadow and Light (Fantasy)
-12. Bobiverse (Sci-fi, cool writing style and explores interesting concepts)
+My overall rankings for fiction books / series.
+
+- 1 - [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
+- 2 - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
+- 3 - [Mistborn (1-3)](./fiction/fantasy/mistborn.md)
+- 4 - [King's Dark Tidings](./fiction/fantasy/kings-dark-tidings.md)
+- 5 - [The Spellmonger](./fiction/fantasy/spellmonger.md)
+  - Planned to be very long, first few books are slow.
+  - Interesting and complex magic system and great world building.
+- 6 - [Stormlight Archive](./fiction/fantasy/stormlight-archive.md)
+- 7 - [Three Body](./fiction/sci-fi/three-body.md)
+  - Sci-fi, very thought provoking. Explores the Fermi Paradox.
+- 8 - [Arcane Ascension](./fiction/fantasy/arcane-ascension.md)
+  - Almost fits in the LitRPG genre. It's a very fun series, and a good way to see if you'd like LitRPG.
+- 9 - [Codex Alera](./fiction/fantasy/codex-alera.md)
+  - Lots of cool problem solving in this one.
+- 10 - [The Dresden Files](./fiction/fantasy/dresden-files.md)
+- 11 - [A Pattern of Shadow and Light](./fiction/fantasy/pattern-of-shadow-and-light.md)
+- 12 - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
+  - Sci-fi, cool writing style and explores interesting concepts.
 
 ### Unranked Series (TODO)
 
