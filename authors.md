@@ -49,6 +49,12 @@ This is a list of authors and relevant links.
   - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
+  
+## Melissa McPhail
+
+- https://melissamcphail.com/
+- Books / Series
+  - [A Pattern of Shadow and Light](./fiction/fantasy/pattern-of-shadow-and-light.md)
 
 ## N.K. Jemisin
 
