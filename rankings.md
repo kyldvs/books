@@ -24,7 +24,7 @@ This is a nice ordering of series for someone getting started in the Fantasy gen
 
 ## Fiction - Overall
 
-My overall rankings for fiction books / series.
+My overall rankings for fiction books / series. Anything on this list I would **strongly recommend**. Being at the bottom does not mean the book is bad! These are rough, relative rankings of books I've enjoyed.
 
 - 1 - [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
 - 2 - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
