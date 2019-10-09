@@ -56,7 +56,13 @@ This is a list of authors and relevant links.
   - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
-  
+
+## Kel Kade
+
+- https://kelkade.com/
+- Books / Series
+  - [King's Dark Tidings](./fiction/fantasy/kings-dark-tidings.md)
+
 ## Melissa McPhail
 
 - https://melissamcphail.com/
