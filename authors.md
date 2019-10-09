@@ -67,6 +67,12 @@ This is a list of authors and relevant links.
 - https://en.wikipedia.org/wiki/Robert_Jordan
 - Books / Series
   - [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
+
+## Terry Mancour
+
+- http://terrymancour.blogspot.com/
+- Books / Series
+  - [The Spellmonger](./fiction/fantasy/spellmonger.md)
   
 ## Travis Bagwell
 
