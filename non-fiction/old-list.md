@@ -221,3 +221,7 @@ This is my old list of non-fiction. I'll probably be re-organizing this at some 
 | ✅ | | ✅ | | _Moonwalking with Einstein: The Art and Science of Remembering Everything_ | Joshua Foer | | [Amazon](http://a.co/d/3bYs9j2) |
 | | | | | _The City that Became Safe: New York’s Lessons for Urban Crime and Its Control_ | Franklin Zimring | | [Amazon](http://a.co/d/cal5Iso) |
 | | | | | _Frank Stewart’s Bridge Club_ | Frank Stewart | | [Amazon](http://a.co/d/g0l0rYT) |
+
+# Sources
+
+1. [All the books Bill Gates has recommended over the last eight years](https://qz.com/1285629/99-books-recommended-by-bill-gates-from-the-last-6-ck-years/)
