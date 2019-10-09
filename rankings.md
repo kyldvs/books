@@ -31,8 +31,8 @@ My overall rankings for fiction books / series.
 - 3 - [Mistborn (1-3)](./fiction/fantasy/mistborn.md)
 - 4 - [King's Dark Tidings](./fiction/fantasy/kings-dark-tidings.md)
 - 5 - [The Spellmonger](./fiction/fantasy/spellmonger.md)
-  - Planned to be very long, first few books are slow.
-  - Interesting and complex magic system and great world building.
+  - Planned to be a very long series.
+  - Interesting and complex magic system and great world building. First few books take a while to introduce the magic system.
 - 6 - [Stormlight Archive](./fiction/fantasy/stormlight-archive.md)
 - 7 - [Three Body](./fiction/sci-fi/three-body.md)
   - Sci-fi, very thought provoking. Explores the Fermi Paradox.
