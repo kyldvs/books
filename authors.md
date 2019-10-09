@@ -2,6 +2,13 @@
 
 This is a list of authors and relevant links.
 
+## Andrew Rowe
+
+- https://andrewkrowe.wordpress.com/
+- Books / Series
+  - [Arcane Ascension](./fiction/fantasy/arcane-ascension.md)
+  - [Weapons and Wielders](./fiction/fantasy/weapons-and-wielders.md)
+
 ## Brandon Sanderson
 
 - https://brandonsanderson.com/
