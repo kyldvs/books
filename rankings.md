@@ -4,21 +4,21 @@ These are rough rankings of the series I've read.
 
 ## Fantasy - Getting Started
 
-- 1. [The Dresden Files](./fiction/fantasy/dresden-files.md)
+- 1 - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - A wizard going around Chicago solving crimes.
   - Nice, fast-paced, action-packed intro to fantasy.
   - Lots of short books.
-- 2. [Mistborn (1-3)](./fiction/fantasy/mistborn.md)
+- 2 - [Mistborn (1-3)](./fiction/fantasy/mistborn.md)
   - Very interesting magic system.
   - Stronger fantasy elements than _The Dresden Files_. More of a focus on magic.
-- 3. [King's Dark Tidings](./fiction/fantasy/kings-dark-tidings.md)
+- 3 - [King's Dark Tidings](./fiction/fantasy/kings-dark-tidings.md)
   - A well written series with a lot of mystery and great characters.
   - The main character is powerful, and has many things to uncover.
-- 4. [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
+- 4 - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
   - Fantastic writing and story telling.
   - A telling of a hero's past and how he grew up. Largely set in a magical school.
-- 5. Continue with others in the [Cosmere Universe by Brandon Sanderson](./authors.md#brandon-sanderson)
-- 6. [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
+- 5 - Continue with others in the [Cosmere Universe by Brandon Sanderson](./authors.md#brandon-sanderson)
+- 6 - [The Wheel of Time](./fiction/fantasy/wheel-of-time.md)
   - This is my favorite epic-fantasy series. It is excellent overall, but is long and can be hard to get through.
   - I would only recommend this after getting through some of the previously mentioned series.
 
