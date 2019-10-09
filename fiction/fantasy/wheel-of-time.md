@@ -23,4 +23,9 @@
 | ✅ | | ✅ | _The Gathering Storm_ | 12 | Oct 2009 | |
 | ✅ | | ✅ | _Towers of Midnight_ | 13 | Nov 2010 | |
 | ✅ | | ✅ | _A Memory of Light_ | 14 | Jan 2013 | |
+
+# Extras
+
+| 🎧 | 📱 | ✔️ | Title | Book | Published | ✏️ |
+| - | - | - | - | - | - | - |
 | ✅ | | ✅ | _New Spring_ | 0 | Jan 2004 | |
