@@ -4,6 +4,8 @@ These are rough rankings of the series I've read.
 
 ## Fantasy - Getting Started
 
+This is a nice ordering of series for someone getting started in the Fantasy genre. Recommendations 2-5 can all be mixed around, they will be similar.
+
 - 1 - [The Dresden Files](./fiction/fantasy/dresden-files.md)
   - A wizard going around Chicago solving crimes.
   - Nice, fast-paced, action-packed intro to fantasy.
