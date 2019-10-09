@@ -50,6 +50,12 @@ This is a list of authors and relevant links.
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
 
+## N.K. Jemisin
+
+- http://nkjemisin.com/
+- Books / Series
+  - [The Broken Earth](./fiction/fantasy/broken-earth.md)
+
 ## Patrick Rothfuss
 
 - https://www.patrickrothfuss.com/
