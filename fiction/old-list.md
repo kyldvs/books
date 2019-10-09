@@ -1,6 +1,6 @@
 # Old List
 
-This is missing a lot of books, check out individual files in [./fiction/](../)
+This is missing a lot of books, check out individual files in [fiction/](../fiction)
 
 ## Fiction
 
