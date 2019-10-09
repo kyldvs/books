@@ -1,6 +1,6 @@
 # Books
 
-Book recommendations, lists, reports, etc.
+Book recommendations, lists, reports, etc. This repo is primarily for my personal use to track books I've read or book I want to read.
 
 - List of [`authors.md`](./authors.md) (with links to series)
 - Book [rankings](./rankings.md)
