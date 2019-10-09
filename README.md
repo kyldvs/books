@@ -4,6 +4,7 @@ Book recommendations, lists, reports, etc.
 
 - List of [`authors.md`](./authors.md).
 - [Old non-fiction list](./non-fiction/old-list.md).
+- Book [rankings](./rankings.md).
 
 # Moving
 
