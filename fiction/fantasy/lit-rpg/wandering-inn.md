@@ -1,4 +1,4 @@
-# Awaken Online
+# The Wandering Inn
 
 - Author: [pirate aba](../../../authors.md#pirate-aba)
 - Writing status: In progress
