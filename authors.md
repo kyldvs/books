@@ -81,6 +81,11 @@ This is a list of authors and relevant links.
 - Books / Series
   - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
 
+## Phil Tucker
+- https://www.authorphiltucker.com/
+- Books / Series
+  - [Euphoria Online](./fiction/fantasy/lit-rpg/euphoria-online.md)
+
 ## Robert Jordan
 
 - https://en.wikipedia.org/wiki/Robert_Jordan
