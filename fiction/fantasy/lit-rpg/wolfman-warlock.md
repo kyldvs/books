@@ -5,7 +5,7 @@
   - [Dakota Krout](../../../authors.md#dakota-krout)
 - Writing status: In progress
 - Related (same world):
-  - [The Completionist Chronicles](./completionis-chronicles.md)
+  - [The Completionist Chronicles](./completionist-chronicles.md)
 
 # Overview
 
