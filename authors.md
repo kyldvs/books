@@ -36,12 +36,19 @@ This is a list of authors and relevant links.
 - Books / Series
   - [The Divine Dungeon](./fiction/fantasy/lit-rpg/divine-dungeon.md)
   - [The Completionist Chronicles](./fiction/fantasy/lit-rpg/completionist-chronicles.md)
+  - [Wolfman Warlock](./fiction/fantasy/lit-rpg/wolfman-warlock.md)
 
 ## Dennis E. Taylor
 
 - http://dennisetaylor.org/
 - Books / Series
   - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
+
+## James Hunter
+
+- https://authorjamesahunter.com/
+- Books / Series
+  - [Wolfman Warlock](./fiction/fantasy/lit-rpg/wolfman-warlock.md)
 
 ## James S. A. Corey
 
