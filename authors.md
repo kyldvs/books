@@ -57,6 +57,12 @@ This is a list of authors and relevant links.
   - [Codex Alera](./fiction/fantasy/codex-alera.md)
   - [The Cinder Spires](./fiction/fantasy/cinder-spires.md)
 
+## Jonathan Brooks
+
+- https://www.goodreads.com/author/show/17649659.Jonathan_Brooks
+- Books / Series
+  - [Dungeon Core](./fiction/fantasy/lit-rpg/dungeon-core.md)
+
 ## Kel Kade
 
 - https://kelkade.com/
