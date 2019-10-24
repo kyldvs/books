@@ -95,9 +95,16 @@ This is a list of authors and relevant links.
   - [The Kingkiller Chronicle](./fiction/fantasy/kingkiller-chronicle.md)
 
 ## Phil Tucker
+
 - https://www.authorphiltucker.com/
 - Books / Series
   - [Euphoria Online](./fiction/fantasy/lit-rpg/euphoria-online.md)
+
+## pirate aba
+
+- https://wanderinginn.com/
+- Books / Series
+  - [The Wandering Inn](./fiction/fantasy/lit-rpg/wandering-inn.md)
 
 ## Robert Jordan
 
