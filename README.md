@@ -6,7 +6,7 @@ This repo is primarily for my personal use to track books I've read or books I w
 - [Non-fiction list](./non-fiction/old-list.md) (old)
 - [Fiction list](./fiction/old-list.md) (old)
 
-# Rankings
+# Lists
 
 Different lists and rankings for series I've read.
 
@@ -52,6 +52,19 @@ My overall rankings for fiction books / series. Anything on this list I would **
 - 11 - [A Pattern of Shadow and Light](./fiction/fantasy/pattern-of-shadow-and-light.md)
 - 12 - [The Bobiverse Trilogy](./fiction/sci-fi/bobiverse.md)
   - Sci-fi, cool writing style and explores interesting concepts.
+
+## Lit RPG - Getting Started
+
+These are a few series that are lights versions of the Literary Role Playing Game genre (Lit RPG). They will be a good intro to see if it's a genre you would like.
+
+- 1 - [Arcane Ascension](./fiction/fantasy/arcane-ascension.md)
+  - One of my favorite fiction series overall. It's similar Lit RPG-light, doesn't quite fit in the genre but is similar.
+- 2 - [Awaken Online](./fiction/fantasy/lit-rpg/awaken-online.md)
+  - Follows an anti-hero. Good side stories as well!
+  - Firmly in the Lit RPG genre. Heavy focus on levels, skills, and magic.
+- 3 - [The Wandering Inn](./fiction/fantasy/lit-rpg/wandering-inn.md)
+  - Very fun story that has some unique classes and skills that make for interesting situations.
+  - Not as heavy of a focus on stats as other Lit RPGs.
 
 ### Unranked Series (TODO)
 
