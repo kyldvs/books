@@ -2,6 +2,8 @@
 
 - Author: [Dakota Krout](../../../authors.md#dakota-krout)
 - Writing status: In progress
+- Related (same world):
+  - [Wolfman Warlock](./wolfman-warlock.md)
 
 # Overview
 
