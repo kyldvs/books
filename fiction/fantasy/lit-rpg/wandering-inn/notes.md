@@ -69,6 +69,9 @@
 
 ### 4.24
 
--
+- The fae can predict the future better than most. But they don't know everything.
+- Lyonette showed Apista the bee to Ryoka.
+- Erin showed Ryoka a healing slime she had been working on. They fight over it.
+- A pterodactyl in almost all respects is attacking Mrsha.
 
 
