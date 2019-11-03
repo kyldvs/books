@@ -19,7 +19,7 @@
 - Beniar is healed from the poison.
 - 2 hobs and 30 goblins spotted. Silver-teams head out to attack.
 - Goblins were not found, silver-teams return.
-- Laken sense a single goblin entering the village with bow and knife. Maybe poisoned.
+- Laken senses a single goblin entering the village with bow and knife. Maybe poisoned.
 - Durene catches and kills the goblin, but is cut with the knife.
 - Knife is not poisoned.
 - That night goblins fire flaming arrows at buildings. The fires are put out.
@@ -40,7 +40,7 @@
 - Laken tells Wiskeria to take a group and plant the seven markers (totem poles) around the village.
 - 6 markers are in and Laken can sense all of the encompassed area.
 - Laken senses the goblins. They are about to attack the marker group.
-- Laken commands the goblins to stop. It buys the group time but the goblins resist.
+- From a distance Laken commands the goblins to stop. It buys the group time but the goblins resist.
 - The group flees to the village.
 - The goblins head toward the village.
 - There are 2 hobs and at least 64 goblins near the village.
