@@ -1,6 +1,6 @@
 # Wandering Inn - Notes
 
-**Warning: Contains Spoilers**
+**Warning: Contains All Spoilers**
 
 ## Summary
 
@@ -10,6 +10,9 @@
 - 4.23 E
   - Laken expands the area he can sense with totem poles.
   - Goblins attack, but Laken learns and uses [Undying Loyalty], miraculously winning.
+- 4.24
+  - The Queen of the Antinum learns the Grand Queen is not making more Queens. She starts trying herself.
+  - News that the Goblin Lord is a powerful [Necromancer] reaches Liscor and spreads.
 
 ## Volume 1
 
@@ -102,6 +105,9 @@
 - Hawk returns to the city with a dead Drake. He sounds the alarm and brings news.
 - The Goblin Lord crushed the armies of Garusa Weatherfur and Thrissiam Blackwing.
 - And there is something wrong with the Goblin Lord, he is a powerful [Necromancer].
+- Ivolethe begins melting. Which means Winter is ending.
+- Messages about the Goblin Lord were sent out everywhere. Including to Lady Magnolia.
+
+### 4.25 N
+
 - 
-
-
