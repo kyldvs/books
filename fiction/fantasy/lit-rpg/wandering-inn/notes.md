@@ -13,6 +13,9 @@
 - 4.24
   - The Queen of the Antinum learns the Grand Queen is not making more Queens. She starts trying herself.
   - News that the Goblin Lord is a powerful [Necromancer] reaches Liscor and spreads.
+- 4.25 N
+  - Niers gets the chess newsletter from Olesm. He learns his mysterious chess partner is in Liscor.
+  - Niers is reinvigorated by this news.
 
 ## Volume 1
 
@@ -110,4 +113,30 @@
 
 ### 4.25 N
 
-- 
+- Niers Astoragon the famous Fraerling [Strategist] known as the Titan is preparing to teach his students.
+- Niers is actually a [Grandmaster Strategist], but others do not know this.
+- A squirrel tribe beastkin, Foliana, is having breakfast with Niers. She is his friend and boss.
+- Niers tells Foliana he is thinking of quitting.
+- Niers is teaching and asking his class questions about fighting Antinium.
+- Niers has to greet many people at a yearly fundraiser for his company. He finds this necessity annoying.
+- Niers is overseeing some mock battles between students.
+- Niers goes out drinking with some of his students.
+- They start to play dice and coin games. No betting though.
+- Niers rolls all 1's, a bad roll, and loses. Then they switch to coins.
+- Rumors of a curse were mentioned, Niers says it is not real and he just does not like gambling.
+- A student recieved Olesm's chess newsletter and shows it to Niers. Everyone is excited.
+- Niers learns that his mysterious chess partner is in Liscor.
+- Niers uses a [Diviner] to observe the other pair to his magical chessboard.
+- At the last moment he cancels the spell. He is afraid to find out who his mysterious chess partner is.
+- Niers addresses the rat problem himself. He shows up to class naked, bloody, carrying a rat head.
+- Niers heads to the banquet with new "eye-searing" clothes.
+- Foliana is retelling a story about the King of Destruction.
+- About Queravia, one of his seven, his great [Strategist].
+- How she landed with a single army onto Baleros and crushed the city of Zaland.
+- Then held it against all the armies of Baleros.
+- Except in one last battle, Niers defeated her.
+- Changing history, and leading to the downfall of the King of Destruction.
+- A student challenges Niers to a mock battle. The old Niers would have refused, but now he accepts.
+- Niers doesn't fight fair and uses his skills. That's the point. He wins easily.
+
+### 4.26 M
