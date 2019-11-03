@@ -2,6 +2,15 @@
 
 **Warning: Contains Spoilers**
 
+## Summary
+
+- 4.22 E
+  - Goblins are planning to attack Riverfarm. Villagers are afraid.
+  - A spy sent by [Lady] Magnolia is discovered but escapes.
+- 4.23 E
+  - Laken expands the area he can sense with totem poles.
+  - Goblins attack, but Laken learns and uses [Undying Loyalty], miraculously winning.
+
 ## Volume 1
 
 ## Volume 2
