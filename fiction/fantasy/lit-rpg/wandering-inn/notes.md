@@ -54,7 +54,7 @@
 - Laken asks Wiskeria to be his [General].
 - Day 70
 - Laken discusses how certain classes are more powerful with Durene.
-- Laken says that he got much of this information, including the markers, from an "insider".
+- Laken says that he got much of this information, including the idea of the markers, from an "insider".
 - A runner arrives with letters from [Lady]s, [Lords]s, and [Merchant]s for Laken.
 - This is almost exactly how the "insider" said it would play out.
 
