@@ -31,6 +31,10 @@
   - Ryoka needs to go to Teriarch for help. Ivolethe foretells of Ryoka's death. She still goes.
   - Az'kerash orders his minions to bring him just Ryoka's head. Frozen or in stasis.
   - Erin reveals Regrika and Ikriss killed Brunkr. A fight breaks out in the Inn.
+- 4.30
+  - Ikriss regroups. Az'kerash sends the rest of his minions to Liscor to kill Zel.
+  - Venitra catches Ryoka. Ivolethe interferes, breaking the rules. Ivolethe falls from the sky and breaks.
+  - Ryoka yells at Teriarch. She shouts Az'kerash's name triggering [Word of Death]. Ryoka dies.
 
 ## Volume 1
 
@@ -285,3 +289,46 @@
 - A fight breaks out in the Inn.
 - Regrika killed Ulrien easily.
 - She turns to everyone in the room and says they are all dead.
+
+### 4.30
+
+- Several have died. They are not able to injure Regrika.
+- Az'kerash orders Regrika to go after Ryoka and not to kill Erin Solstice.
+- Regrika wants to kill Erin, but reluctantly obeys.
+- Zel and Ilvriss are fighting Ikriss. They have all been teleported into Liscor.
+- Ikriss is using illusions and causing much destruction in the city.
+- At the Inn nobody is able to harm Regrika.
+- Halrac fires a piercing arrow at Regrika, it harms her. She is furious.
+- Everyone is fleeing and trying to distract Regrika.
+- Regrika goes through the door into Celum.
+- People are dying in Liscor. Ikriss has many illusions of himself.
+- Xrn enters the battle in Liscor.
+- Xrn says she is not to interfere unless attacked first. She wants Ikriss to hit her with a spell.
+- Xrn can see through the illusions and is constantly staring at Ikriss.
+- Zel realizes this and is able to land a blow on Ikriss.
+- Before Zel can land a killing blow a powerful teleportation spell saves Ikriss.
+- Zel and Ilvriss race to the Inn.
+- Venitra finds Ryoka at the Frenzied Hare, sitting with the Horns of Hammerad.
+- Venitra attacks, Ryoka flees.
+- Pisces distracts Venitra. He uses [Bone Fracture] and injures her. Pisces knows she is a skeleton.
+- Venitra catches Ryoka and breaks her fingers.
+- Az'kerash tells Venitra to stop wasting time and find Ryoka. Venitra things she has.
+- Az'kerash realizes something is wrong. Venitra does not have Ryoka.
+- Az'kerash's minions scry Ryoka. He tells Venitra her location and to use [Haste] to catch her.
+- Az'kerash is annoyed. He gives his minions scrolls of [Greater Teleportation] and tells them to kill Zel.
+- His minions are suprised. Even he cannot obtain more scrolls of [Greater Teleportation].
+- Bea, Kerash, Oom, and Ijvani are all sent to Liscor to battle. The spell there will take 30 minutes.
+- Venitra is chasing Ryoka. Ryoka is unable to run like the wind. Venitra finally catches her.
+- Relc appears and kicks Venitra.
+- Venitra ignores him and chases after Ryoka. Relc is faster though and distracts her.
+- Eventually Venitra slices Relc and he flees. Venitra resumes chasing Ryoka.
+- Venitra catches Ryoka.
+- Ivolethe watches. She has already bent and nearly broken the rules for Ryoka. She cannot do more.
+- The other Faeries warn her not to do anything for Ryoka, and that their King is watching.
+- Ivolethe freezes venitra. She breaks the rules. Ivolethe will not let her friend die.
+- The other Frost Faeries are screaming that Ivolethe broke the rules.
+- Ivolethe falls from the sky and breaks. Ryoka keeps running and weeps.
+- Ryoka runs into Teriarch's cave. He is upset. Why did she bother him and risk his wrath?
+- Ryoka yells at him. Why did her friends have to die for his stupid letter?
+- Teriarch is confused who she means. Ryoka yells and says Az'Kerash's name.
+- The spell triggers and Ryoka dies.
