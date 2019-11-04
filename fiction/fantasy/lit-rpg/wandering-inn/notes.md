@@ -16,6 +16,10 @@
 - 4.25 N
   - Niers gets the chess newsletter from Olesm. He learns his mysterious chess partner is in Liscor.
   - Niers is reinvigorated by this news.
+- 4.26 M
+  - Magnolia goes to the Reinhart estate to visit her Grandfather Regis, a multi-thousand year old ghost.
+  - She asks him for help from their family's magical armory. He allows her to take some help.
+  - Liscor and the Antinium are also discussing what to do about the Goblin Lord.
 
 ## Volume 1
 
@@ -140,3 +144,35 @@
 - Niers doesn't fight fair and uses his skills. That's the point. He wins easily.
 
 ### 4.26 M
+
+- Magnolia is travelling to her family's estate in First Landing.
+- A rider is following her carriage. Magnolia slows and pulls the rider in.
+- It is Mayor Wullst of Leadenfurt. Magnolia requested an army from him to help with the Goblin Lord.
+- He informs her that his troops have been claimed by Veltras.
+- Magnolia relents and says Wullst need not send the full amount, but must send his best riders and mages.
+- Magnolia reaches the Reinhart estate and plows through her family heading to meet her Grandfather.
+- Her Grandfather lives in an armory of magical artifacts on the same level as Teriarch's.
+- Her Grandfather, Regis, is a ghost that is thousands of years old, whose memory is kept alive by a [Necromancer]'s spell.
+- Regis and Magnolia are rude to each other an argue.
+- Regis hints that Magnolia and Teriarch are some sort of lovers.
+- Magnolia requests aid from ther armory to fight the Goblin Lord.
+- Regis does not allow Magnolia to take The Crown of Flowers. It is alluded to be incredibly powerful.
+- Instead he allows her an army and several other powerful artifacts.
+- Magnolia leaves.
+- Olesm, the council, and others in Liscor are discussing what to do about the Goblin Lord.
+- They are trying to figure out who might be willing to scout the Goblin Lord's army.
+- They think Ryoka might be interested.
+- Regrika Blackpaw is interested in meeting Ryoka and Erin at the Inn.
+- The Antinium are discussing the Goblin Lord.
+- Xrn and the others will be leaving soon. 
+- They are now convinced of the worth of The Queen of the Free Antinium's efforts.
+- They will petition the other Queens to connect their hives with the Free Antinium's now that they are proven.
+- Osthia Blackwing is still alive and captive to the Goblin Lord.
+- She is afraid of Az'kerash the Necromancer, the Goblin Lord's master.
+- Az'kerash wants and orders Osthia killed.
+- The Goblin Lord considers his master an enemy so does not want to kill Osthia.
+- Teriarch is still playing with his iPhone.
+- He hints that Az'kerash may not be mortal.
+- Teriarch has become a cookie god...by mastering cookie clicker on his iPhone.
+
+### 4.27 H
