@@ -32,9 +32,14 @@
   - Az'kerash orders his minions to bring him just Ryoka's head. Frozen or in stasis.
   - Erin reveals Regrika and Ikriss killed Brunkr. A fight breaks out in the Inn.
 - 4.30
-  - Ikriss regroups. Az'kerash sends the rest of his minions to Liscor to kill Zel.
+  - Ijvani regroups. Az'kerash starts to send the rest of his minions to Liscor to kill Zel.
   - Venitra catches Ryoka. Ivolethe interferes, breaking the rules. Ivolethe falls from the sky and breaks.
   - Ryoka yells at Teriarch. She shouts Az'kerash's name triggering [Word of Death]. Ryoka dies.
+- 4.31
+  - Teriarch saves Ryoka. He is furious. He injures Venitra and unleashes his fury on Az'kerash.
+  - Ryoka is now under Teriarch's protection. Az'kerash may not harm her.
+  - There is a memorial for Brunkr and Ulrein. All are sad. Many leave the Inn. Some stay.
+  - There are drums. The goblins are nearing Liscor.
 
 ## Volume 1
 
@@ -331,4 +336,63 @@
 - Ryoka runs into Teriarch's cave. He is upset. Why did she bother him and risk his wrath?
 - Ryoka yells at him. Why did her friends have to die for his stupid letter?
 - Teriarch is confused who she means. Ryoka yells and says Az'Kerash's name.
-- The spell triggers and Ryoka dies.
+- [Word of Death] triggers. Ryoka dies. Teriarch Roars.
+
+### 4.31
+
+- Ryoka has a vision of an endless road. She is happily chasing Ivolethe but can't catch her.
+- She reaches a cavern where an old man is working to restore a girl's body. Her body.
+- Teriarch revives Ryoka. He gently touches her. Then he is furious.
+- Venitra hears the second roar and is almost filled with trepidation.
+- She enters the cave. She is better than any monster.
+- Venitra sees Teriarch protectively curled around Ryoka. She demands he give Ryoka to her.
+- Venitra leaps for Ryoka. Teriarch teleports Venitra away.
+- Venitra is confused. Then she is falling. She crashing into the side of a mountain. She breaks.
+- Venitra sees a dragon. She is afraid. Teriarch breathes fire. She burns and feels pain.
+- Az'kerash falters. He orders Bea and Kerash to take scrolls and save Venitra.
+- Az'kerash receives a [Message] spell. He tells his minions not to answer it.
+- Impossibly it writes itself in the air, "Worm.". Then there is fire.
+- Az'kerash quickly voids the room of air and puts out the fire.
+- A vision of Teriarch appears in the room and yells at Az'kerash. There is more dragon fire.
+- Teriarch says Ryoka is now under his protection.
+- Az'kerash understands. He will not harm her or her associates.
+- Ryoka goes outside to where Ivolethe fell.
+- Ryoka must have passed out. She wakes up looking down on the world.
+- She is being carried by Teriarch as he flies.
+- Teriarch is sorry. He did not mean for this to happen.
+- Teriarch leaves Ryoka near Liscor and flies off.
+- Liscor is having a memorial for Brunkr and Ulrien.
+- Gnolls leave gifts by Brunkr's shroud.
+- Their bodies are cremated.
+- People shoot spells and arrows into the sky for Ulrien. The sky is filled with Fireworks.
+- Erin:
+  - [Magical Innkeeper Level 32!]
+  - [Skill - Inn: Reinforced Structure obtained!]
+- Erin finds Ryoka's letter that says it is all Ryoka's fault.
+- In the morning Erin and Ryoka talk briefly. Ryoka can't say much because it is dangerous.
+- Erin asks Ryoka to leave and not come back for a while.
+- Halrac tells Erin they are leaving. Not Liscor, but they cannot stay at the Inn.
+- The other Gold Rank team will stay at Erin's Inn.
+- Ryoka tells Krshia that she cannot say who Regrika works for.
+- Krshia understands. She is sad, but Ryoka is still a friend of gnolls.
+- But Krshia asks to not see Ryoka for a while.
+- Ryoka talks with Zel. She also ends up telling Ilvriss that this was caused by the Necromancer.
+- Ryoka tells Zel what she can, but does not reveal her benefactor, Teriarch.
+- Zel is trying to figure out who else might know that can help. Ryoka says Magnolia might.
+- Zel talks about his mentor, Sserys. Zel says he had a unique class [Spear of the Drakes].
+- It made him a leader of their entire race. He only leveled in it once and got no skills before being killed.
+- Ryoka told everyone else what she could.
+- Ryoka gathered her things to leave the Inn. Teriarch's human form was sitting in the Inn.
+- Teriarch thought now might be better to talk. Maybe just to apologize.
+- Teriarch mentions that he thinks Ivolethe is not dead.
+- Teriarch thinks the King of Faeries would not kill her spirit.
+- Her mental form is, but not her spirit. She is probably banished from this world for thousands of years.
+- Teriarch and Ryoka talk.
+- They hear drums. The Goblin Lord is approaching. He will probably march by and not attack Liscor.
+- Ryoka demands Teriarch wipe them out.
+- Teriarch will not. And explains that he must not take sides.
+- Ryoka leaves, she will go to Celum then somewhere else. She will run.
+- Az'kerash is upset with Venitra and Ijvani. They have lost his favor.
+- Az'kerash believes there may be one unexpected boon. Ryoka is one of Teriarch's weaknesses. He cares for her.
+- Ryoka listens to music on her iPhone and runs.
+
