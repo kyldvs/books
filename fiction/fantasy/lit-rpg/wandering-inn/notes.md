@@ -20,6 +20,9 @@
   - Magnolia goes to the Reinhart estate to visit her Grandfather Regis, a multi-thousand year old ghost.
   - She asks him for help from their family's magical armory. He allows her to take some help.
   - Liscor and the Antinium are also discussing what to do about the Goblin Lord.
+- 4.27 H
+  - The Horns of Hammerad investigate a bear den. It ends up being a creler nest they barely kill.
+  - Regrika Blackpaw finds Ryoka and reveals herself to be Az'Kerash's minion searching for Ryoka.
 
 ## Volume 1
 
@@ -176,3 +179,40 @@
 - Teriarch has become a cookie god...by mastering cookie clicker on his iPhone.
 
 ### 4.27 H
+
+- Lyonette leveled up to 6 in [Princess]. And level 1 in [Warrior].
+- She learned the skill [Royal Tax]. Now guests in the Inn always leave her small tips which is uncommon.
+- Ryoka confirms to Brunkr and Krshia that Lyonette is a royal [Princess].
+- Brunkr gained the [Knight] class.
+- The gnolls are proud of Regrika Blackpaw and look up to her.
+- Other adventurers feel small and are demoralized just by the presence of a Named adventurer. Nothing she did.
+- Fortress Blackpaw is her nickname.
+- Selys tells the Horns of Hammerad they are not yet approved to be gold rank. They need to prove themselves.
+- She also says Pisces is not allowed to reanimate almost every species.
+- Notably he can reanimate Lizardfolk (Which are different from Drakes).
+- Ksmvr strongly objects to the restrictions place on his teammates [Necromancer] skills.
+- Ksmvr rationally explains the utility of his dead body to everyone as Ceria and Yvlon drag him out of the guild.
+- Ceria finally learned the spell [Ice Wall] from her book. A Tier 4 spell.
+- Yvlon says they will be taking a request near Esthelm to kill 3 male bears in the area.
+- Pisces and Yvlon argue.
+- Yvlon says she does not hate Pisces to everyone's surprise, but she dislikes necromancy.
+- They arrive at the bear cave and start developing a plan.
+- They find the bears dead and something feasting on them. Crelers.
+- The Horns of Hammerad barely kill the Crelers. Pisces reanimates bears and their enchanted gear saves them.
+- Yvlon has a broken arm, Ceria is poisoned.
+- Pisces helps set the bones in Yvlon's arm.
+- Yvlon reveals that she got the skill [Ignore Pain] and the class [Wounded Warrior].
+- Yvlon says she hates [Necromancer]s because that is how she was raised.
+- But she will tolerate Pisces. And watch to ensure he does not misuse his magic.
+- As a show of trust they all reveal their classes and levels.
+  - Yvlon: Level 26 [Wounded Warrior]
+  - Pisces: Level 29 [Necromancer], Level 18 [Mage]
+  - Ceria: Level 25 [Cryomancer]
+  - Ksmvr: Level 16 [Warrior]
+- Regrika spots Ryoka and asks her to have a drink to discuss scouting the Goblin Lord's army.
+- Regrika leads Ryoka into an alley.
+- Regrika reveals that her form is an illusion. She is one of Az'kerash's minions searching for Ryoka.
+
+### 4.28
+
+-
