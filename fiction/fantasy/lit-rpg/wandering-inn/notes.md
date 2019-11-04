@@ -40,6 +40,9 @@
   - Ryoka is now under Teriarch's protection. Az'kerash may not harm her.
   - There is a memorial for Brunkr and Ulrein. All are sad. Many leave the Inn. Some stay.
   - There are drums. The goblins are nearing Liscor.
+- 4.32 G
+  - The Goblin Lord, Garen Redfang, and Rags' fates are all intertwined.
+  - Rags and her tribe are growing. They are stable. They do not kill humans unnecessarily.
 
 ## Volume 1
 
@@ -396,3 +399,10 @@
 - Az'kerash believes there may be one unexpected boon. Ryoka is one of Teriarch's weaknesses. He cares for her.
 - Ryoka listens to music on her iPhone and runs.
 
+### 4.32 G
+
+- TODO
+
+### 1.02 C
+
+- TODO
