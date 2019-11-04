@@ -23,6 +23,10 @@
 - 4.27 H
   - The Horns of Hammerad investigate a bear den. It ends up being a creler nest they barely kill.
   - Regrika Blackpaw finds Ryoka and reveals herself to be Az'Kerash's minion searching for Ryoka.
+- 4.28
+  - Az'kerash intercedes before his minions kill Ryoka. He will let her live but she cannot reveal him.
+  - Az'kerash orders his minions to observe.
+  - Venitra, disguised Regrika, murders Brunkr in an alley.
 
 ## Volume 1
 
@@ -215,4 +219,35 @@
 
 ### 4.28
 
--
+- Regrika and her companion are the minions Venitra and Ijvani.
+- They have incapacitated Ryoka in an alley.
+- They question her and ask if she has told anyone about Az'kerash. She has not.
+- Before they could kill Ryoka, Relc is prodded into the alley by Ivolethe.
+- The two minions instantly put back on their disguises and behave normally.
+- They all end up heading to Erin's Inn for a drink.
+- Regrika and Ijvani tell Ryoka if she speaks she and everyone necessary will die.
+- Everyone is at the Inn.
+- Ryoka is trying to figure out a plan, but there is a listening spell on her.
+- Ijvani is also staring directly at Ryoka the entire night from under her illusion.
+- Ivolethe keeps telling Ryoka to wait as more powerful friends show up. Zel, Ilvriss, Xrn, Klbkch.
+- Az'kerash contancts Venitra. He is upset that she lied to him about how long they had been in Liscor.
+- While viewing through Venitra Az'kerash notices Xrn and Klbkch.
+- He warns his minions not to attack. They are not favored in this battle. They are to observe.
+- Az'kerash wishes to speak to Ryoka to learn of the Antinium, so Regrika heads to her table.
+- Az'kerash heals Ryoka's finger Venitra broke earlier.
+- Az'kerash plans to let Ryoka live unharmed if she does not reveal him.
+- Ryoka stubbornly asks what if she were to tell Zel. Az'kerash curses her with [Word of Death].
+- If Ryoka speaks his name or of necromancy she will die in that instant.
+- Xrn and Klbkch come over to speak with Ryoka.
+- Ryoka not so subtly tells them it is not a good time to speak of anything important.
+- Xrn is unable to see the magical enchantments on Ryoka.
+- There is a lot of tension in the Inn.
+- Erin brings out a cake with [Knight] on it to celebrate Brunkr's class.
+- Erin gets almost everyone singing happy birthday.
+- Az'kerash ends up playing Erin in chess through Ikriss.
+- Brunkr expresses his deep thanks to Erin for saving his arm, and his regret for how he misjudged her.
+- Az'kerash orders his minions to observe and explicitly to not harm Ryoka.
+- Regrika approaches Brunkr as he is walking to Liscor. She murders him.
+- Regrika plants the body in the dungeon along with the body of other silver and bronze rank gnolls.
+
+### 4.29
