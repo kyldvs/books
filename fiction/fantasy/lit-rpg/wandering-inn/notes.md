@@ -29,6 +29,7 @@
   - Venitra, disguised as Regrika, murders Brunkr in an alley.
 - 4.29
   - Ryoka needs to go to Teriarch for help. Ivolethe foretells of Ryoka's death. She still goes.
+  - Az'kerash orders his minions to bring him just Ryoka's head. Frozen or in stasis.
   - Erin reveals Regrika and Ikriss killed Brunkr. A fight breaks out in the Inn.
 
 ## Volume 1
