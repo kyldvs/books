@@ -24,9 +24,12 @@
   - The Horns of Hammerad investigate a bear den. It ends up being a creler nest they barely kill.
   - Regrika Blackpaw finds Ryoka and reveals herself to be Az'Kerash's minion searching for Ryoka.
 - 4.28
-  - Az'kerash intercedes before his minions kill Ryoka. He will let her live but she cannot reveal him.
+  - Az'kerash contacts his minions before they kill Ryoka. He will let her live but she cannot reveal him.
   - Az'kerash orders his minions to observe.
-  - Venitra, disguised Regrika, murders Brunkr in an alley.
+  - Venitra, disguised as Regrika, murders Brunkr in an alley.
+- 4.29
+  - Ryoka needs to go to Teriarch for help. Ivolethe foretells of Ryoka's death. She still goes.
+  - Erin reveals Regrika and Ikriss killed Brunkr. A fight breaks out in the Inn.
 
 ## Volume 1
 
@@ -251,3 +254,33 @@
 - Regrika plants the body in the dungeon along with the body of other silver and bronze rank gnolls.
 
 ### 4.29
+
+- The third floor, tower, and other changes to Erin's Inn have been completed by the Antinium.
+- Krshia visits Erin's inn asking about where Brunkr is. :(
+- Later that evening Brunkr and the other gnolls were found. Gnolls howled throughout Liscor.
+- Ryoka knows and is upset. She hates Venitra.
+- Relc shows up and realizes he lost a race to Ryoka a long time ago. He wants a rematch.
+- Ryoka is upset and tells him to shut up.
+- Relc gets more serious and reveals he is actually questioning everyone about Brunkr.
+- He questions Ryoka, but she didn't do it. They both go back to the Inn.
+- Klbkch questions everyone including Regrika about Brunkr. Everyone passes the truth gem.
+- Erin is suspicious of Regrika though.
+- Az'kerash meets with Ryoka and expresses his displeasure with Venitra's actions.
+- Because it had compromised her disguise, not because he cares of Brunkr's life.
+- Ryoka asks Ivolethe what to do. She says to fight. But Ryoka does not know who she can ask for help.
+- Ivolethe reminds her of Teriarch.
+- Ryoka would need Ivolethe's help to succeed, but there will be a cost. Ryoka asks what would happen.
+- Ivolethe says Ryoka will save those that can be saved, but foretells of Ryoka's death.
+- Ryoka is afraid.
+- Erin knows Regrika and Ikriss did not like any of her food. They lied.
+- Erin asks Pisces if a truth detection spell can be deceived.
+- He says it is impractical. Probably not by a Named Adventurer. Perhaps an archmage could do it.
+- Ryoka solemnly leaves a note in an empty Inn before heading through the door to Celum.
+- Az'kerash orders his minions to bring back Ryoka's head, frozen or in stasis, but undamaged. Just her head.
+- Regrika and Ikriss head back to the Inn in order to go to Celum. Erin insists they try a special dish first.
+- They are amazed, they love the dish. Skeletons do not like any food. They ask how this is possible.
+- Erin tells them the secret ingredient, their meal was all bone.
+- Erin confronts them, they have been exposed.
+- A fight breaks out in the Inn.
+- Regrika killed Ulrien easily.
+- She turns to everyone in the room and says they are all dead.
