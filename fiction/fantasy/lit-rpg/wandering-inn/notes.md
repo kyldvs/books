@@ -69,7 +69,8 @@
   - He receives messages and gifts from mildly important people.
   - [Lady] Rie's estate is about to be overrun by hundreds of goblins. Laken saves them. They kneel to him.
 - 4.36 O
-  - ?
+  - Olesm's job is to follow Ilvriss around and keep him happy. Ilvriss likes Olesm. Olesm is annoyed.
+  - Hawk delivers a letter to Olesm from Niers. Olesm is very excited.
 
 ## Volume 1
 
