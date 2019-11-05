@@ -63,6 +63,12 @@
 - 4.34
   - Bugear died protecting the village. Now there are 5. Erin knows they saved everyone's life.
   - Erin feeds the goblins and lets them stay at her Inn. Everyone else is upset. Many leave.
+- 4.35 E
+  - Laken's empire is growing. Several villages are under his control. Laken keeps the roads safe.
+  - He receives messages and gifts from mildly important people.
+  - [Lady] Rie's estate is about to be overrun by hundreds of goblins. Laken saves them. They kneel to him.
+- 4.36 O
+  - 
 
 ## Volume 1
 
