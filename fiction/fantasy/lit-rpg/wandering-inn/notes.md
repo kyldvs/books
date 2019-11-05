@@ -54,10 +54,13 @@
   - Tom seems to have his insanity controlled, then he unknowingly arrives to dinner in his clown custome.
   - The alarm is sounded. Demons are attacking the castle.
 - 1.05 C
-  - Tom's insanity takes over. He is crazy, but has a plan to stop the demon army from teleporting in.
+  - The devil inside Tom takes over. He's crazy, but has a plan to stop the demon army from teleporting in.
   - The [Fool] is the traitor. Tom kills many demons and ruins the plan. The [Fool] takes the King hostage.
   - Tom saves the King. As [Fool] dies he reveals the summoning spell from earth costs 1000 unborn lives.
 - 4.33
+  - The 6 Redfang goblins became hobgoblins. They hid from the Goblin Lord's army as it passed.
+  - Eater Goats attack a farming village near Liscor. The hobgoblins start to defend the village.
+- 4.34
   - ?
 
 ## Volume 1
