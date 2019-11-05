@@ -43,6 +43,17 @@
 - 4.32 G
   - The Goblin Lord, Garen Redfang, and Rags' fates are all intertwined.
   - Rags and her tribe are growing. They are stable. They do not kill humans unnecessarily.
+- 1.02 C
+  - Tom the [Clown] and his group are heading to meet the Blighted King.
+  - Tom has [Lesser Insanity] and an annoying voice inside his head.
+- 1.03 C
+  - ?
+- 1.04 C
+  - ?
+- 1.05 C
+  - ?
+- 4.33
+  - ?
 
 ## Volume 1
 
@@ -401,8 +412,24 @@
 
 ### 4.32 G
 
-- TODO
+- ?
 
 ### 1.02 C
 
-- TODO
+- ?
+
+### 1.03 C
+
+- ?
+
+### 1.04 C
+
+- ?
+
+### 1.05 C
+
+- ?
+
+### 4.33
+
+- ?
