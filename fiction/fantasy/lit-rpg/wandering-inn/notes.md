@@ -4,6 +4,7 @@
 
 ## Summary
 
+- _(Started taking notes part way through volume 4, will try to go back and fill in old ones)_
 - 4.22 E
   - Goblins are planning to attack Riverfarm. Villagers are afraid.
   - A spy sent by [Lady] Magnolia is discovered but escapes.
@@ -68,7 +69,7 @@
   - He receives messages and gifts from mildly important people.
   - [Lady] Rie's estate is about to be overrun by hundreds of goblins. Laken saves them. They kneel to him.
 - 4.36 O
-  - 
+  - ?
 
 ## Volume 1
 
