@@ -6,6 +6,12 @@ This repo is primarily for my personal use to track books I've read or books I w
 - [Non-fiction list](./non-fiction/old-list.md) (old)
 - [Fiction list](./fiction/old-list.md) (old)
 
+# Notes
+
+Quick links for me to get to my active notes (**contains spoilers!**):
+
+- [The Wandering Inn](./fiction/fantasy/lit-rpg/wandering-inn/notes.md)
+
 # Lists
 
 Different lists and rankings for series I've read.
