@@ -61,7 +61,8 @@
   - The 6 Redfang goblins became hobgoblins. They hid from the Goblin Lord's army as it passed.
   - Eater Goats attack a farming village near Liscor. The hobgoblins start to defend the village.
 - 4.34
-  - ?
+  - Bugear died protecting the village. Now there are 5. Erin knows they saved everyone's life.
+  - Erin feeds the goblins and lets them stay at her Inn. Everyone else is upset. Many leave.
 
 ## Volume 1
 
