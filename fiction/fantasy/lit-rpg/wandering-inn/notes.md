@@ -71,6 +71,9 @@
 - 4.36 O
   - Olesm's job is to follow Ilvriss around and keep him happy. Ilvriss likes Olesm. Olesm is annoyed.
   - Hawk delivers a letter to Olesm from Niers. Olesm is very excited.
+- 4.37 O
+  - Olesm and Pisces argue. Then they realize their similarities. An unlikely friendship emerges.
+  - Olesm and Pisces investigate the crypt. They find a secret room. Calruz might be alive.
 
 ## Volume 1
 
