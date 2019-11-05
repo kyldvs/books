@@ -47,7 +47,8 @@
   - Tom the [Clown] and his group are heading to meet the Blighted King.
   - Tom has [Lesser Insanity] and an annoying voice inside his head.
 - 1.03 C
-  - ?
+  - Tom is asked to perform in front of the King. It is a lackluster performance. The [Fool] is better.
+  - Later, the [Princesses] are attacked. Tom kills 2 demons saving them.
 - 1.04 C
   - ?
 - 1.05 C
