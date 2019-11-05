@@ -50,7 +50,9 @@
   - Tom is asked to perform in front of the King. It is a lackluster performance. The [Fool] is better.
   - Later, the [Princesses] are attacked. Tom kills 2 demons saving them.
 - 1.04 C
-  - ?
+  - Tom is treated special now. He will receive a reward for saving the [Princesses].
+  - Tom seems to have his insanity controlled, then he unknowingly arrives to dinner in his clown custome.
+  - The alarm is sounded. Demons are attacking the castle.
 - 1.05 C
   - ?
 - 4.33
