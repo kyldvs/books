@@ -82,7 +82,18 @@
   - [Lady] Bethal and her Rose [Knights] attack Rags' tribe. The [Knights] are basically invincible.
   - Old goblin Greybeard somehow holds them off. He is Greydath, a former Goblin Lord to the Goblin King.
   - Greydath leaves. Rose [Knights] attack again. Rags drops trees on them. Bethal is bored and leaves.
-
+- 4.40 L
+  - Yellow Splatters disagrees with Pawn. Pawn gives an order, Yellow Splatters and soldiers disobey.
+  - The goblins staying at the Inn cause tensions to rise. Erin just wants to understand them.
+  - Yellow Splatters rebels more. All that matters is saving soldiers. Pink Stripes becomes Aberration.
+- 4.41 L
+  - Antinium at the Inn start fighting. Mrsha attacks the Goblins and tries to kill one.
+  - Erin defuses the situation. She is pissed and wants everyone to calm down.
+- 4.42 L
+  - Erin explains to Mrsha she can hate goblins, but must understand people are not the same.
+  - Erin plays music and involves everyone. Goblins are happy. Yellow Splatters realizes he was wrong.
+  - Belgrade made fortifications in the hive. Antinium soldiers no longer need to fight and die.
+  
 ## Volume 1
 
 ## Volume 2
