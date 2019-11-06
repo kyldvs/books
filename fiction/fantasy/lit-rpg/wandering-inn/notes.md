@@ -93,6 +93,19 @@
   - Erin explains to Mrsha she can hate goblins, but must understand people are not the same.
   - Erin plays music and involves everyone. Goblins are happy. Yellow Splatters realizes he was wrong.
   - Belgrade made fortifications in the hive. Antinium soldiers no longer need to fight and die.
+- 4.43
+  - Ilvriss demands to speak to Erin. She gives him a hard time because he's being a jerk.
+  - Lyonette meets with Krshia. Krshia thanks her. Lyonette offers and makes Krshia's class Royal.
+  - Ylawes Byres opens the door to the Inn and finally finds Yvlon.
+- 4.44 M
+  - There is chaos as Zel tries to organize Magnolia's army. Drakes are much more organized.
+  - Magnolia and Zel talk. Her plans are a perfect army, peace, and to solve the world's problems.
+  - Zel is skeptical, but will stick with Magnolia for now. A temporary alliance is formed.
+- 4.45
+  - Ylawes talks with Yvlon to convince her to come home. She refuses. Ylawes decides to stay here too.
+  - Erin gives Ilvriss some of the Faerie Flower ale, he dreams of Periss. He is better now.
+- 4.46
+  - ?
   
 ## Volume 1
 
