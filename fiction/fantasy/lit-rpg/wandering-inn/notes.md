@@ -74,6 +74,12 @@
 - 4.37 O
   - Olesm and Pisces argue. Then they realize their similarities. An unlikely friendship emerges.
   - Olesm and Pisces investigate the crypt. They find a secret room. Calruz might be alive.
+- 4.38 B
+  - Reynold is driving Magnolia around everywhere. She meets [Lady] Rie to learn of the [Emporer].
+  - Reynold is sent to Celum to pick up Zel. He encounters the Goblin Lord's army and kills some.
+  - Zel starts his meeting with Magnolia. Magnolia reveals her primary ambition is peace.
+- 4.39 G
+  - ?
 
 ## Volume 1
 
