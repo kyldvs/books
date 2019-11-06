@@ -52,7 +52,7 @@
   - Later, the [Princesses] are attacked. Tom kills 2 demons saving them.
 - 1.04 C
   - Tom is treated special now. He will receive a reward for saving the [Princesses].
-  - Tom seems to have his insanity controlled, then he unknowingly arrives to dinner in his clown custome.
+  - Tom seems to have his insanity controlled, then he unknowingly arrives to dinner in his clown costume.
   - The alarm is sounded. Demons are attacking the castle.
 - 1.05 C
   - The devil inside Tom takes over. He's crazy, but has a plan to stop the demon army from teleporting in.
@@ -79,7 +79,9 @@
   - Reynold is sent to Celum to pick up Zel. He encounters the Goblin Lord's army and kills some.
   - Zel starts his meeting with Magnolia. Magnolia reveals her primary ambition is peace.
 - 4.39 G
-  - ?
+  - [Lady] Bethal and her Rose [Knights] attack Rags' tribe. The [Knights] are basically invincible.
+  - Old goblin Greybeard somehow holds them off. He is Greydath, a former Goblin Lord to the Goblin King.
+  - Greydath leaves. Rose [Knights] attack again. Rags drops trees on them. Bethal is bored and leaves.
 
 ## Volume 1
 
