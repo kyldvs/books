@@ -105,7 +105,14 @@
   - Ylawes talks with Yvlon to convince her to come home. She refuses. Ylawes decides to stay here too.
   - Erin gives Ilvriss some of the Faerie Flower ale, he dreams of Periss. He is better now.
 - 4.46
-  - ?
+  - Greydath visits the Goblin Lord's army to meet him. Later Greydath leaves.
+  - Goblin Lord is smart. He learns and reads books.
+  - Human army sends 5k to fight. Goblin Lord leads 8k. Humans should win easy. Goblin Lord wins easy.
+- 4.47
+  - Magnolia introduces Zel to army. Army is upset at first. Zel gives speech. Army will fight under Zel.
+  - News of Zel and Magnolia's alliance spreads all over the world. Mixed receptions.
+  - Az'kerash orders Goblin Lord to attack Invrisil and kill Zel.
+
   
 ## Volume 1
 
