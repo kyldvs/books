@@ -112,7 +112,31 @@
   - Magnolia introduces Zel to army. Army is upset at first. Zel gives speech. Army will fight under Zel.
   - News of Zel and Magnolia's alliance spreads all over the world. Mixed receptions.
   - Az'kerash orders Goblin Lord to attack Invrisil and kill Zel.
-
+- S02 - The Antinium Wars (Pt.3)
+  - The Book "The Second Antinium Wars" is being read. It is biased towards drakes and unreliable.
+  - Drakes initiated hostilities with a failed surprise attack on a hive.
+  - The Goblin King, Velan the King, landed on Izril and assaulted the humans at First Landing.
+  - [Ladies] lended aid to the battle. It swung the tides but many died. Known as the Sacrifice of Roses.
+  - The Necromancer, Az'kerash, was advancing south. He began laying siege to Liscor.
+- S02 - The Antinium Wars (Pt.3)
+  - Tallis the Stormbreaker, a goblin lord, was attacked by Antinium. He destroyed an army with one spell.
+  - Niers came to the aid of the humans and began leading their armies against the goblin lords.
+  - Zel was holding of Az'kerash's siege at Liscor, but just barely.
+- S02 - The Antinium Wars (Pt.4)
+  - Unexpectedly, the Antinium came to the aid of Liscor. Zel charged too. Zel killed Az'kerash.
+  - A massive battle of humans vs goblin king started. Humans destroying many goblins from range.
+  - Velan charged human archmages out of necessity. An arrow from silver rank pierced his eye. He died.
+  - This is a mystery. Velan should have been able to dodge the arrow. Everyone is confused to this day.
+- 4.48
+  - The battle between Zel and goblins begin. Zel breaks the initial charge. Battle is about equal.
+  - They would lose a battle of attrition. Zel asks Magnolie to use her carriage for a daring plan.
+- 4.49
+  - Zel, alone, flies into the middle of the Goblin Lord's army. He find him and is winning.
+  - It's a trap, set by Az'kerash. Before the killing blow a nearly impervious bone dome surrounds them.
+  - Venitra, Ijvani, Bea, Oom, and Kerash are teleported into the dome. They fight Zel.
+  - Zel kills Oom. Zel is holding on, just barely. Az'kerash sees an opportunity, he teleports in.
+  - Az'kerash kills Zel. Zel surprises Az'kerash and lashes out, Az'kerash panics and teleports away.
+  - The Goblin Lord talks with Zel as Zel is dying. Zel names him Reiss. Reiss orders a withdrawl.
   
 ## Volume 1
 
