@@ -124,6 +124,12 @@ This is a list of authors and relevant links.
 - Books / Series
   - [Awaken Online](./fiction/fantasy/lit-rpg/awaken-online.md)
 
+## Will Wight
+
+- https://www.willwight.com/
+- Books / Series
+  - [Cradle](./fiction/fantasy/lit-rpg/cradle.md)
+
 ---
 
 ## Aleron Kong
