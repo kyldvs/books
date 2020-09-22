@@ -37,7 +37,7 @@ My favorites from different genres.
 - 3 - A Short History of Nearly Everything
 - 4 - The Better Angels of Our Nature
 
-## Non Fiction (Self Improvement)
+## Self Improvement
 
 - 1 - Getting Things Done
 - 2 - The Power of Habit
