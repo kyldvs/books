@@ -30,6 +30,19 @@ My favorites from different genres.
 - 2 - [Cradle](./fiction/fantasy/lit-rpg/cradle.md)
 - 3 - [The Wandering Inn](./fiction/fantasy/lit-rpg/wandering-inn.md)
 
+## Non Fiction
+
+- 1 - Thinking, Fast and Slow
+- 2 - Sapiens
+- 3 - A Short History of Nearly Everything
+- 4 - The Better Angels of Our Nature
+
+## Non Fiction (Self Improvement)
+
+- 1 - Getting Things Done
+- 2 - The Power of Habit
+- 3 - Never Split the Difference
+
 # Reading List
 
 Basically everything I've read/listened to since 2016.
