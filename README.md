@@ -108,7 +108,7 @@ Basically everything I've read/listened to since 2016.
   - [Apr] - Skin in the Game (partial)
   - [Jun] - [Weapons and Wielders 1](/fiction/fantasy/weapons-and-wielders.md)
   - [Aug] - [Awaken Online 1-4.5](/fiction/fantasy/lit-rpg/awaken-online.md)
-  - [Sep] - [The Completionist Chronicles 1-3](/fiction/fantasy/lit-rpg/completionish-chronicles.md)
+  - [Sep] - [The Completionist Chronicles 1-3](/fiction/fantasy/lit-rpg/completionist-chronicles.md)
   - [Sep] - [Euphoria Online 1-3](/fiction/fantasy/lit-rpg/euphoria-online.md)
   - [Sep] - [Dungeon Core 1-3](/fiction/fantasy/lit-rpg/dungeon-core.md)
   - [Sep] - [Wolfman Warlock 1](/fiction/fantasy/lit-rpg/wolfman-warlock.md)
