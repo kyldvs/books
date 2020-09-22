@@ -1,10 +1,11 @@
 # Weapons and Wielders
 
-- Author: [Andrew Rowe](../../authors.md#andrew-rowe)
+- Author: [Andrew Rowe](/authors.md#andrew-rowe)
 - Writing status: In Progress
 
 # Overview
 
-| 🎧 | 📱 | ✔️ | Title | Book | Published | ✏️ |
-| - | - | - | - | - | - | - |
-| ✅ | | ✅ | _Six Sacred Swords_ | 1 | Feb 2019 | |
+| ✔️ | Title | Book | Published | ✏️ |
+| - | - | - | - | - |
+| ✅ | _Six Sacred Swords_ | 1 | Feb 2019 | |
+| ✅ | _Diamantine_ | 2 | Jan 2020 | |

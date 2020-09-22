@@ -1,6 +1,6 @@
 # Dungeon Core
 
-- Author: [Jonathan Brooks](../../../authors.md#jonathan-brooks)
+- Author: [Jonathan Brooks](/authors.md#jonathan-brooks)
 - Writing status: In progress
 
 # Review
@@ -12,8 +12,8 @@ ideas and world building in the books.
 
 # Overview
 
-| 🎧 | 📱 | ✔️ | Title | Book | Published | ✏️ |
-| - | - | - | - | - | - | - |
-| | ✅ | ✅ | _Dungeon World_ | 1 | Mar 2019 | |
-| | ✅ | ✅ | _Dungeon World 2_ | 2 | Jun 2019 | |
-| | ✅ | ✅ | _Dungeon World 3_ | 3 | Aug 2019 | |
+| ✔️ | Title | Book | Published | ✏️ |
+| - | - | - | - | - |
+| ✅ | _Dungeon World_ | 1 | Mar 2019 | |
+| ✅ | _Dungeon World 2_ | 2 | Jun 2019 | |
+| ✅ | _Dungeon World 3_ | 3 | Aug 2019 | |
