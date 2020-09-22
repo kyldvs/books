@@ -1,6 +1,6 @@
 # Three Body
 
-- Author: [Cixin Liu](authors.md#cixin-liu)
+- Author: [Cixin Liu](/authors.md#cixin-liu)
 - Writing status: Complete
 
 # Overview
