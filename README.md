@@ -1,8 +1,7 @@
 # Books
 
-This is primarily for my personal use to track books I've read.
-
-Links are generally to other markdown files listing books in a series and upcoming
+This is primarily for my personal use to track my books. Links are
+to other markdown files listing books in a series and upcoming
 publications. Links do not contain spoilers unless I call that out.
 
 # Quick links
