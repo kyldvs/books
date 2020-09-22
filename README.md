@@ -4,8 +4,8 @@ This repository is primarily for my personal use to track books I've read or boo
 
 ## Quick links
 
-- List of [`authors.md`](/authors) (with links to series)
-- [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn/notes) notes (**contains spoilers!**)
+- List of [`authors.md`](/authors.md) (with links to series)
+- [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn/notes.md) notes (**contains spoilers!**)
 
 # Top Picks
 
@@ -13,22 +13,22 @@ My favorites from different genres.
 
 ## Fantasy
 
-- 1 - [The Wheel of Time](/fiction/fantasy/wheel-of-time)
-- 2 - [King's Dark Tidings](/fiction/fantasy/kings-dark-tidings)
-- 3 - [A Pattern of Shadow and Light](/fiction/fantasy/pattern-of-shadow-and-light)
-- 4 - [The Kingkiller Chronicle](/fiction/fantasy/kingkiller-chronicle)
-- 5 - [Mistborn (1-3)](/fiction/fantasy/mistborn)
+- 1 - [The Wheel of Time](/fiction/fantasy/wheel-of-time.md)
+- 2 - [King's Dark Tidings](/fiction/fantasy/kings-dark-tidings.md)
+- 3 - [A Pattern of Shadow and Light](/fiction/fantasy/pattern-of-shadow-and-light.md)
+- 4 - [The Kingkiller Chronicle](/fiction/fantasy/kingkiller-chronicle.md)
+- 5 - [Mistborn (1-3)](/fiction/fantasy/mistborn.md)
 
 ## Sci-fi
 
-- 1 - [Three Body](/fiction/sci-fi/three-body)
-- 2 - [The Bobiverse Trilogy](/fiction/sci-fi/bobiverse)
+- 1 - [Three Body](/fiction/sci-fi/three-body.md)
+- 2 - [The Bobiverse Trilogy](/fiction/sci-fi/bobiverse.md)
 
 ## Progession Fantasy / LitRPG
 
-- 1 - [Arcane Ascension](/fiction/fantasy/arcane-ascension)
-- 2 - [Cradle](/fiction/fantasy/lit-rpg/cradle)
-- 3 - [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn)
+- 1 - [Arcane Ascension](/fiction/fantasy/arcane-ascension.md)
+- 2 - [Cradle](/fiction/fantasy/lit-rpg/cradle.md)
+- 3 - [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn.md)
 
 ## Non Fiction
 
@@ -49,7 +49,7 @@ Basically everything I've read/listened to since 2016.
 
 - **2016**
   - [Sep] - Ready Player One
-  - [Sep-Nov] - [Dresden Files 1-15](/fiction/fantasy/dresden-files)
+  - [Sep-Nov] - [Dresden Files 1-15](/fiction/fantasy/dresden-files.md)
   - [Dec] - Codex Alera 1-2
 - **2017**
   - [Jan] - Codex Alera 3-6
