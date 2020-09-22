@@ -1,11 +1,14 @@
 # Books
 
-This repository is primarily for my personal use to track books I've read or books I want to read.
+This is primarily for my personal use to track books I've read.
 
-## Quick links
+Links are generally to other markdown files listing books in a series and upcoming
+publications. Links do not contain spoilers unless I call that out.
 
-- List of [`authors.md`](/authors.md) (with links to series)
-- [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn/notes.md) notes (**contains spoilers!**)
+# Quick links
+
+- [Authors](/authors.md)
+- [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn/notes.md) notes (**spoilers**)
 
 # Top Picks
 
