@@ -107,14 +107,18 @@ Basically everything I've read/listened to since 2016.
   - [Apr] - Superintelligence
   - [Apr] - Skin in the Game (partial)
   - [Jun] - Weapons and Wielders 1
+  - [Aug] - Awaken Online 1-4.5
+  - [Sep] - The Completionist Chronicles 1-3
   - [Sep] - Euphoria Online 1-3
+  - [Sep] - Dungeon World 1-3
+  - [Sep] - Bibliomancer
+  - [Oct] - Cradle 1-7
   - [Oct-Dec] - The Wandering Inn 1-6
   - [Dec] - Fate of The Fallen
 - **2020**
   - [Jan] - The Black Cloud
   - [Jan] - Skyward 1-2
   - [Jan] - Being Mortal
-  - [Feb] - Cradle 1-7
   - [Feb] - Viridian Gate Online 1-4 (partial)
   - [Apr] - His Dark Materials 1-3
   - [Apr] - The War of Broken Mirrors 1-3
