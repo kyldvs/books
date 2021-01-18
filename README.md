@@ -138,7 +138,8 @@ Basically everything I've read/listened to since 2016.
   - [Oct-Nov] - [A Pattern of Shadow and Light 1-5](/fiction/fantasy/pattern-of-shadow-and-light.md)
   - [Nov-Dec] - [Stormlight Archive 1-4](/fiction/fantasy/stormlight-archive.md)
   - [Dec] - [Arcane Ascension 3](/fiction/fantasy/arcane-ascension.md)
-  - [...Dec] - [The Wandering Inn 7](/fiction/fantasy/lit-rpg/wandering-inn.md)
+  - [Jan-Dec] - [The Wandering Inn 7](/fiction/fantasy/lit-rpg/wandering-inn.md)
 - **2021**
   - [Jan] - How Fascism Works
   - [Jan] - [King's Dark Tidings 1-4](/fiction/fantasy/kings-dark-tidings.md)
+  - [Jan-Dec] - [The Wandering Inn 8](/fiction/fantasy/lit-rpg/wandering-inn.md)
