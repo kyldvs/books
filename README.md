@@ -19,7 +19,7 @@ My favorites from different genres.
 - 2 - [King's Dark Tidings](/fiction/fantasy/kings-dark-tidings.md)
 - 3 - [A Pattern of Shadow and Light](/fiction/fantasy/pattern-of-shadow-and-light.md)
 - 4 - [The Kingkiller Chronicle](/fiction/fantasy/kingkiller-chronicle.md)
-- 5 - [Mistborn (1-3)](/fiction/fantasy/mistborn.md)
+- 5 - [Stormlight Archive](/fiction/fantasy/stormlight-archive.md)
 
 ## Sci-fi
 
@@ -29,8 +29,8 @@ My favorites from different genres.
 ## Progession Fantasy / LitRPG
 
 - 1 - [Arcane Ascension](/fiction/fantasy/arcane-ascension.md)
-- 2 - [Cradle](/fiction/fantasy/lit-rpg/cradle.md)
-- 3 - [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn.md)
+- 2 - [The Wandering Inn](/fiction/fantasy/lit-rpg/wandering-inn.md)
+- 3 - [Cradle](/fiction/fantasy/lit-rpg/cradle.md)
 
 ## Non Fiction
 
