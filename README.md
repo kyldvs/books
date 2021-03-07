@@ -143,3 +143,9 @@ Basically everything I've read/listened to since 2016.
   - [Jan] - How Fascism Works
   - [Jan] - [King's Dark Tidings 1-4](/fiction/fantasy/kings-dark-tidings.md)
   - [Jan-Dec] - [The Wandering Inn 8](/fiction/fantasy/lit-rpg/wandering-inn.md)
+  - [Feb] - [The Kingkiller Chronicle 1-2](/fiction/fantasy/kingkiller-chronicle.md)
+  - [Feb] - The Slow Regard of Silent Things (partial)  
+  - [Feb] - The War of Broken Mirrors 1-3
+  - [Feb] - [Weapons and Wielders 1-2](/fiction/fantasy/weapons-and-wielders.md)
+  - [Feb] - Harry Potter and the Sorcer's Stone (partial)
+  - [Mar] - [Spellmonger 1-3...](/fiction/fantasy/spellmonger.md)
