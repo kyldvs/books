@@ -131,7 +131,7 @@ Basically everything I've read/listened to since 2016.
   - [Jul] - Getting Things Done
   - [Jul] - Gentleman Bastard 1-3
   - [Jul] - Willpower (in progress)
-  - [Aug-Sep] - Sword of Truth 1-7 (in progress)
+  - [Aug-Sep] - Sword of Truth 1-7 (partial)
   - [Oct] - [Cradle 8](/fiction/fantasy/lit-rpg/cradle.md)
   - [Oct] - [The Completionist Chronicles 4](/fiction/fantasy/lit-rpg/completionist-chronicles.md)
   - [Oct] - [Bobiverse 4](/fiction/sci-fi/bobiverse.md)
@@ -148,4 +148,4 @@ Basically everything I've read/listened to since 2016.
   - [Feb] - The War of Broken Mirrors 1-3
   - [Feb] - [Weapons and Wielders 1-2](/fiction/fantasy/weapons-and-wielders.md)
   - [Feb] - Harry Potter and the Sorcer's Stone (partial)
-  - [Mar] - [Spellmonger 1-3...](/fiction/fantasy/spellmonger.md)
+  - [Mar] - [Spellmonger 1-3...](/fiction/fantasy/spellmonger.md) (in progress)
